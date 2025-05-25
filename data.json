@@ -1,0 +1,1219 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Kind to Skin Refreshing Facial Wash",
+      "brand_name": "Simple",
+      "category": "Cleanser",
+      "skin_type": ["All Skin Types", "Sensitive", "Normal"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/simple-wash.jpg",
+      "ingredients": [
+        "Aqua", "Cocamidopropyl Betaine", "Propylene Glycol", "Hydroxypropyl Methylcellulose",
+        "Sodium Chloride", "Panthenol", "Tocopheryl Acetate", "Pantolactone",
+        "Dipotassium Glycyrrhizate", "Sodium Benzoate", "Disodium EDTA", "Citric Acid"
+      ],
+      "description": "A gentle, 100% soap-free facial wash that cleanses and refreshes your skin without harsh chemicals. Perfect for all skin types, especially sensitive skin."
+    },
+    {
+      "id": 2,
+      "product_name": "Kind to Skin Hydrating Light Moisturiser",
+      "brand_name": "Simple",
+      "category": "Moisturizer",
+      "skin_type": ["All Skin Types", "Sensitive", "Normal", "Oily"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/simple-light-moisturizer.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Paraffinum Liquidum", "Niacinamide", "Glyceryl Stearate",
+        "Dimethicone", "Tocopheryl Acetate", "Panthenol", "BHT", "Citric Acid"
+      ],
+      "description": "A light, fast-absorbing moisturizer that keeps skin hydrated for up to 12 hours. Contains Pro-Vitamin B5 and Vitamin E. No artificial perfumes or colors."
+    },
+    {
+      "id": 3,
+      "product_name": "Water Boost Micellar Cleansing Water",
+      "brand_name": "Simple",
+      "category": "Cleanser",
+      "skin_type": ["Dry", "Dehydrated", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/simple-micellar.jpg",
+      "ingredients": [
+        "Aqua", "Hexylene Glycol", "Glycerin", "PEG-6 Caprylic/Capric Glycerides",
+        "Phenoxyethanol", "Citric Acid", "Saccharide Isomerate", "Sodium Benzoate"
+      ],
+      "description": "Removes makeup and impurities while instantly hydrating thirsty skin. No rinse needed, gentle for sensitive skin."
+    },
+    {
+      "id": 4,
+      "product_name": "10% Niacinamide Booster Serum",
+      "brand_name": "Simple",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dull", "Uneven Tone", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
+      "ingredients": [
+        "Aqua", "Niacinamide", "Propanediol", "Saccharide Isomerate", "Glycerin",
+        "Xanthan Gum", "Sodium Benzoate", "Citric Acid"
+      ],
+      "description": "Boosts skin's natural radiance and improves tone and texture with 10% Niacinamide."
+    },
+    {
+      "id": 5,
+      "product_name": "Protect 'n' Glow Radiance Booster SPF 30",
+      "brand_name": "Simple",
+      "category": "Sunscreen",
+      "skin_type": ["All Skin Types", "Dull"],
+      "usage_time": ["Day"],
+      "image_url": "/assets/images/product-placeholders/simple-spf.jpg",
+      "ingredients": [
+        "Aqua", "Zinc Oxide", "Ethylhexyl Methoxycinnamate", "Ascorbyl Glucoside",
+        "Glycerin", "Niacinamide", "Tocopheryl Acetate", "Panthenol", "Butylene Glycol",
+        "PEG-100 Stearate", "Glyceryl Stearate", "Dimethicone", "Carbomer", "Xanthan Gum",
+        "Sodium Hydroxide", "Phenoxyethanol", "Disodium EDTA"
+      ],
+      "description": "Protects against UVA/UVB rays with SPF 30 and boosts natural radiance. Perfect for daily wear."
+    },
+    {
+      "id": 6,
+      "product_name": "Kind to Skin Vital Vitamin Night Cream",
+      "brand_name": "Simple",
+      "category": "Moisturizer",
+      "skin_type": ["All Skin Types", "Dry", "Sensitive"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/simple-night-cream.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Niacinamide", "Tocopheryl Acetate", "Retinyl Palmitate",
+        "Panthenol", "Paraffinum Liquidum", "Glyceryl Stearate", "Dimethicone",
+        "BHT", "Citric Acid", "Phenoxyethanol", "Sodium Benzoate"
+      ],
+      "description": "Replenishes and restores your skin throughout the night. Enriched with Pro-Vitamin B5, Vitamin E, and Vitamin F."
+    },
+    {
+      "id": 7,
+      "product_name": "Low pH Good Morning Gel Cleanser",
+      "brand_name": "Cosrx",
+      "category": "Cleanser",
+      "skin_type": ["All Skin Types", "Oily", "Acne-Prone", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/cosrx-low-ph.jpg",
+      "ingredients": [
+        "Water", "Cocamidopropyl Betaine", "Sodium Lauroyl Methyl Isethionate", "Polysorbate 20",
+        "Saccharomyces Ferment", "Melaleuca Alternifolia (Tea Tree) Leaf Oil", "Allantoin",
+        "Caprylyl Glycol", "Ethylhexylglycerin", "Butylene Glycol", "1,2-Hexanediol",
+        "Trisodium Ethylenediamine Disuccinate", "Citric Acid", "Styrax Japonicus Branch/Fruit/Leaf Extract",
+        "Coptis Japonica Root Extract", "Salicylic Acid", "Betaine Salicylate"
+      ],
+      "description": "A super gentle cleanser with a low pH that effectively cleanses while maintaining skin's natural balance."
+    },
+    {
+      "id": 8,
+      "product_name": "Advanced Snail 96 Mucin Power Essence",
+      "brand_name": "Cosrx",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dry", "Dehydrated", "Aging"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/cosrx-snail.jpg",
+      "ingredients": [
+        "Snail Secretion Filtrate", "Betaine", "Butylene Glycol", "1,2-Hexanediol", "Sodium Polyacrylate",
+        "Phenoxyethanol", "Sodium Hyaluronate", "Allantoin", "Ethyl Hexanediol", "Carbomer",
+        "Panthenol", "Arginine"
+      ],
+      "description": "Formulated with 96% Snail Secretion Filtrate, this essence helps repair, hydrate, and rejuvenate skin."
+    },
+    {
+      "id": 9,
+      "product_name": "UV Aqua Rich Watery Essence SPF 50+ PA++++",
+      "brand_name": "Biore",
+      "category": "Sunscreen",
+      "skin_type": ["All Skin Types"],
+      "usage_time": ["Day"],
+      "image_url": "/assets/images/product-placeholders/biore-uv.jpg",
+      "ingredients": [
+        "Water", "Alcohol", "Ethylhexyl Methoxycinnamate", "Ethylhexyl Triazone", "Isopropyl Palmitate",
+        "Glyceryl Behenate", "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine", "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Agar", "Sorbitan Stearate", "Stearyl Alcohol", "Glyceryl Stearate", "Isoceteth-20",
+        "Dimethicone", "Carbomer", "Potassium Hydroxide", "Disodium EDTA", "BHT", "Fragrance",
+        "Royal Jelly Extract", "Sodium Hyaluronate"
+      ],
+      "description": "A light, watery essence sunscreen that provides strong UV protection without feeling sticky or heavy."
+    },
+    {
+      "id": 10,
+      "product_name": "Hydrating Cleanser",
+      "brand_name": "CeraVe",
+      "category": "Cleanser",
+      "skin_type": ["Normal", "Dry", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/cerave-hydrating.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Cetearyl Alcohol", "Phenoxyethanol", "Stearyl Alcohol",
+        "Cetyl Alcohol", "Ceteareth-20", "Potassium Phosphate", "Sodium Lauroyl Lactylate",
+        "Ceramide NP", "Ceramide AP", "Phytosphingosine", "Cholesterol", "Xanthan Gum",
+        "Carbomer", "Ethylhexylglycerin", "Sodium Hyaluronate", "Ceramide EOP"
+      ],
+      "description": "A non-foaming cream cleanser that gently cleanses and hydrates the skin without stripping moisture. Contains ceramides and hyaluronic acid."
+    },
+    {
+      "id": 11,
+      "product_name": "Niacinamide 10% + Zinc 1%",
+      "brand_name": "The Ordinary",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Oily", "Acne-Prone", "Blemishes"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/theordinary-niacinamide.jpg",
+      "ingredients": [
+        "Aqua", "Niacinamide", "Pentylene Glycol", "Zinc PCA", "Dimethyl Isosorbide",
+        "Tamarindus Indica Seed Gum", "Xanthan Gum", "Isoceteth-20", "Ethoxydiglycol",
+        "Phenoxyethanol", "Chlorphenesin"
+      ],
+      "description": "High-strength vitamin and mineral blemish formula with 10% pure Niacinamide and 1% Zinc PCA."
+    },
+    {
+      "id": 12,
+      "product_name": "Green Tea Seed Serum",
+      "brand_name": "Innisfree",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dry", "Dehydrated"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/innisfree-green-tea.jpg",
+      "ingredients": [
+        "Water", "Propanediol", "Glycerin", "Alcohol", "1,2-Hexanediol",
+        "Camellia Sinensis Leaf Extract", "Ceramide NP", "Phytosphingosine",
+        "Tocopherol", "Ethylhexylglycerin", "Disodium EDTA", "Fragrance"
+      ],
+      "description": "A hydrating and nourishing serum with Jeju green tea extract to deliver moisture and antioxidants."
+    },
+    {
+      "id": 13,
+      "product_name": "Toleriane Hydrating Gentle Cleanser",
+      "brand_name": "La Roche-Posay",
+      "category": "Cleanser",
+      "skin_type": ["Normal", "Dry", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Pentylene Glycol", "Sodium Cocoamphoacetate", "Coco-Betaine",
+        "Sodium Chloride", "Sodium Hyaluronate", "Ceramide NP", "Phenoxyethanol",
+        "Disodium EDTA", "Citric Acid"
+      ],
+      "description": "A hydrating milky cream cleanser for normal to dry and sensitive skin. Cleanses without stripping moisture."
+    },
+    {
+      "id": 14,
+      "product_name": "Moisturizing Cream",
+      "brand_name": "Cetaphil",
+      "category": "Moisturizer",
+      "skin_type": ["Dry", "Very Dry", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/cetaphil-cream.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Petrolatum", "Dicaprylyl Ether", "Dimethicone", "Glyceryl Stearate",
+        "Prunus Amygdalus Dulcis (Sweet Almond) Oil", "Cetyl Alcohol", "PEG-30 Stearate",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer", "Dimethiconol", "Benzyl Alcohol",
+        "Phenoxyethanol", "Tocopheryl Acetate", "Glyceryl Acrylate/Acrylic Acid Copolymer",
+        "Propylene Glycol", "Disodium EDTA", "Sodium Hydroxide"
+      ],
+      "description": "Intense and lasting hydration for sensitive, dry skin. Non-greasy and fragrance-free."
+    },
+    {
+      "id": 15,
+      "product_name": "Regenerist Micro-Sculpting Serum",
+      "brand_name": "Olay",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Aging", "Dull"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/olay-regenerist-serum.jpg",
+      "ingredients": [
+        "Water", "Dimethicone", "Niacinamide", "Glycerin", "Propylene Glycol",
+        "Butylene Glycol", "Panthenol", "Palmitoyl Pentapeptide-4", "Sodium Hyaluronate",
+        "Tocopheryl Acetate", "Camellia Sinensis Leaf Extract", "Allantoin",
+        "Disodium EDTA", "Carbomer", "Xanthan Gum", "Fragrance", "Methylparaben",
+        "Propylparaben", "Phenoxyethanol"
+      ],
+      "description": "Advanced anti-aging serum for firmer, brighter, and more hydrated skin."
+    },
+    {
+      "id": 16,
+      "product_name": "Hydro Boost Water Gel",
+      "brand_name": "Neutrogena",
+      "category": "Moisturizer",
+      "skin_type": ["Normal", "Combination", "Oily"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+      "ingredients": [
+        "Water", "Dimethicone", "Glycerin", "Dimethicone/Vinyl Dimethicone Crosspolymer",
+        "Sodium Hyaluronate", "Ethylhexylglycerin", "Dimethiconol", "Carbomer",
+        "Polyacrylamide", "C13-14 Isoparaffin", "Laureth-7", "C9-11 Pareth-6",
+        "Fragrance", "Phenoxyethanol", "Blue 1"
+      ],
+      "description": "A refreshing, lightweight water gel that instantly quenches and continuously delivers hydration."
+    },
+    {
+      "id": 17,
+      "product_name": "2% BHA Liquid Exfoliant",
+      "brand_name": "Paula's Choice",
+      "category": "Exfoliator",
+      "skin_type": ["All Skin Types", "Oily", "Acne-Prone", "Combination"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/paulas-choice-bha.jpg",
+      "ingredients": [
+        "Aqua", "Methylpropanediol", "Butylene Glycol", "Salicylic Acid", "Polysorbate 20",
+        "Camellia Oleifera Leaf Extract", "Sodium Hydroxide", "Tetrasodium EDTA"
+      ],
+      "description": "A non-abrasive leave-on exfoliant that clears pores, smooths wrinkles, and brightens skin tone."
+    },
+    {
+      "id": 18,
+      "product_name": "Lip Sleeping Mask",
+      "brand_name": "Laneige",
+      "category": "Lip Care",
+      "skin_type": ["All Skin Types", "Dry Lips"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/laneige-lip-mask.jpg",
+      "ingredients": [
+        "Diisostearyl Malate", "Hydrogenated Polyisobutene", "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate",
+        "Hydrogenated Poly(C6-14 Olefin)", "Microcrystalline Wax", "Butyrospermum Parkii (Shea) Butter",
+        "Synthetic Wax", "Ethylene/Propylene/Styrene Copolymer", "Sucrose Tetrastearate Triacetate",
+        "Mica", "Candelilla Wax", "Dimethicone", "Fragrance", "Tocopherol"
+      ],
+      "description": "A leave-on lip mask that soothes and moisturizes for smoother, more supple lips overnight."
+    },
+    {
+      "id": 19,
+      "product_name": "Vichy Mineral 89 Daily Skin Booster",
+      "brand_name": "Vichy",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dehydrated", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/vichy-mineral89.jpg",
+      "ingredients": [
+        "Aqua", "PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin", "Glycerin", "Butylene Glycol",
+        "Methyl Gluceth-20", "Carbomer", "Sodium Hyaluronate", "Caprylyl Glycol",
+        "Citric Acid", "Biosaccharide Gum-1"
+      ],
+      "description": "A daily moisturizer and plumping serum with 89% Vichy Volcanic Water and hyaluronic acid."
+    },
+    {
+      "id": 20,
+      "product_name": "Kiehl's Calendula Deep Cleansing Foaming Face Wash",
+      "brand_name": "Kiehl's",
+      "category": "Cleanser",
+      "skin_type": ["Normal", "Oily"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/kiehls-calendula-wash.jpg",
+      "ingredients": [
+        "Aqua", "Sodium Cocoyl Isethionate", "Coco-Betaine", "Glycerin", "Acrylates Copolymer",
+        "Sodium Chloride", "Calendula Officinalis Flower Extract", "Calendula Officinalis Flower",
+        "Citrus Limon (Lemon) Peel Oil", "Anthemis Nobilis Flower Oil", "Geranium Maculatum Oil",
+        "Fusanus Spicatus Wood Oil", "Salicylic Acid", "Sodium PCA", "Fragrance"
+      ],
+      "description": "A highly effective foaming cleanser that gently removes impurities and dirt without stripping skin's moisture."
+    },
+    {
+      "id": 21,
+      "product_name": "Clinique Dramatically Different Hydrating Jelly",
+      "brand_name": "Clinique",
+      "category": "Moisturizer",
+      "skin_type": ["All Skin Types", "Oily", "Combination"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/clinique-jelly.jpg",
+      "ingredients": [
+        "Water", "Bis-PEG-18 Methyl Ether Dimethyl Silane", "Butylene Glycol", "Glycerin",
+        "Cucumis Sativus (Cucumber) Fruit Extract", "Hordeum Vulgare (Barley) Extract/Extrait D'Orge",
+        "Helianthus Annuus (Sunflower) Seedcake", "Sucrose", "Trehalose", "Hydroxyethyl Urea",
+        "Sorbitol", "Caffeine", "Tocopheryl Acetate", "Sodium Hyaluronate", "Carbomer",
+        "Ammonium Acryloyldimethyltaurate/VP Copolymer", "Phenoxyethanol"
+      ],
+      "description": "A refreshing, lightweight jelly that delivers 24-hour hydration repair plus pollution protection."
+    },
+    {
+      "id": 22,
+      "product_name": "Beauty of Joseon Relief Sun : Rice + Probiotics SPF50+ PA++++",
+      "brand_name": "Beauty of Joseon",
+      "category": "Sunscreen",
+      "skin_type": ["All Skin Types", "Sensitive", "Dry"],
+      "usage_time": ["Day"],
+      "image_url": "/assets/images/product-placeholders/bojc-sunscreen.jpg",
+      "ingredients": [
+        "Water", "Oryza Sativa (Rice) Extract", "Dibutyl Adipate", "Propanediol", "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Polymethylsilsesquioxane", "Ethylhexyl Triazone", "Niacinamide", "Caprylyl Methicone",
+        "Diethoxyethyl Succinate", "1,2-Hexanediol", "Sodium Hyaluronate", "Lactobacillus/Rice Ferment Filtrate",
+        "Tocopherol", "Glycerin", "Butylene Glycol", "Arginine", "Carbomer", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Ethylhexylglycerin", "Adenosine", "Xanthan Gum"
+      ],
+      "description": "A lightweight organic sunscreen that applies gently on the skin and provides powerful UV protection."
+    },
+    {
+      "id": 23,
+      "product_name": "Isntree Hyaluronic Acid Watery Sun Gel SPF50+ PA++++",
+      "brand_name": "Isntree",
+      "category": "Sunscreen",
+      "skin_type": ["All Skin Types", "Dehydrated"],
+      "usage_time": ["Day"],
+      "image_url": "/assets/images/product-placeholders/isntree-sungel.jpg",
+      "ingredients": [
+        "Water", "Butylene Glycol", "Ethylhexyl Salicylate", "Homosalate", "Dibutyl Adipate",
+        "Niacinamide", "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine", "Cyclopentasiloxane",
+        "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol", "Terephthalylidene Dicamphor Sulfonic Acid",
+        "1,2-Hexanediol", "Caprylyl Methicone", "Polyglyceryl-3 Distearate", "Tromethamine",
+        "Dipotassium Glycyrrhizate", "Panthenol", "Tocopherol", "Sodium Hyaluronate", "Ethylhexylglycerin"
+      ],
+      "description": "A hydrating chemical sunscreen that feels like a moisturizer, with 8 types of hyaluronic acid for intense hydration."
+    },
+    {
+      "id": 24,
+      "product_name": "Anua Heartleaf 77% Soothing Toner",
+      "brand_name": "Anua",
+      "category": "Toner",
+      "skin_type": ["All Skin Types", "Sensitive", "Acne-Prone"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/anua-toner.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract (77%)", "Water", "1,2-Hexanediol", "Glycerin", "Betaine",
+        "Panthenol", "Saccharum Officinarum (Sugarcane) Extract", "Portulaca Oleracea Extract",
+        "Butylene Glycol", "Chamomilla Recutita (Matricaria) Flower Extract", "Vitex Agnus-Castus Extract",
+        "Arctium Lappa Root Extract", "Phellinus Linteus Extract", "Centella Asiatica Extract",
+        "Carbomer", "Arginine", "Disodium EDTA"
+      ],
+      "description": "A soothing toner formulated with 77% Heartleaf Extract to calm sensitive skin and balance oil-moisture levels."
+    },
+    {
+      "id": 25,
+      "product_name": "Axis-Y Dark Spot Correcting Glow Serum",
+      "brand_name": "Axis-Y",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dull", "Hyperpigmentation"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/axisy-darkspot.jpg",
+      "ingredients": [
+        "Water", "Glycerin", "Niacinamide", "Sodium Hyaluronate", "Propanediol", "Erythritol",
+        "Butylene Glycol", "Calendula Officinalis Flower Extract", "Carbomer", "Arginine",
+        "Allantoin", "Betaine Salicylate", "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Oryza Sativa (Rice) Bran Extract", "Centella Asiatica Extract", "Tea Tree Leaf Extract",
+        "Chamomilla Recutita (Matricaria) Flower Extract", "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+        "Scutellaria Baicalensis Root Extract", "Polygonum Cuspidatum Root Extract", "Zanthoxylum Piperitum Fruit Extract"
+      ],
+      "description": "A Niacinamide-based serum that corrects dark spots and improves uneven skin tone."
+    },
+    {
+      "id": 26,
+      "product_name": "Kiehl's Ultra Facial Cream",
+      "brand_name": "Kiehl's",
+      "category": "Moisturizer",
+      "skin_type": ["All Skin Types", "Dry", "Normal"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/kiehls-ultrafacial.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Caprylic/Capric Triglyceride", "Squalane", "Cetyl Alcohol",
+        "Glyceryl Stearate", "Palmitic Acid", "Stearic Acid", "Pseudoalteromonas Ferment Extract",
+        "Potassium Cetyl Phosphate", "Caprylyl Glycol", "C9-15 Fluoroalcohol Phosphate",
+        "Phenoxyethanol", "Urea", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer", "Trehalose",
+        "Triethanolamine", "Sodium Hyaluronate", "Tocopherol"
+      ],
+      "description": "A 24-hour daily facial moisturizer for hydrated, soft, and visibly healthier-looking skin."
+    },
+    {
+      "id": 27,
+      "product_name": "Clinique Take The Day Off Cleansing Balm",
+      "brand_name": "Clinique",
+      "category": "Cleanser",
+      "skin_type": ["All Skin Types"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/clinique-balm.jpg",
+      "ingredients": [
+        "Ethylhexyl Palmitate", "Carthamus Tinctorius (Safflower) Seed Oil", "Caprylic/Capric Triglyceride",
+        "Sorbeth-30 Tetraoleate", "Polyethylene", "PEG-5 Glyceryl Triisostearate", "Water",
+        "Tocopherol", "Phenoxyethanol"
+      ],
+      "description": "A lightweight makeup remover that quickly dissolves tenacious eye and face makeups, and sunscreens."
+    },
+    {
+      "id": 28,
+      "product_name": "The Ordinary Glycolic Acid 7% Toning Solution",
+      "brand_name": "The Ordinary",
+      "category": "Exfoliator",
+      "skin_type": ["All Skin Types", "Dull", "Uneven Tone", "Congested"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/theordinary-glycolic.jpg",
+      "ingredients": [
+        "Aqua", "Glycolic Acid", "Rosa Damascena Flower Water", "Centaurea Cyanus Flower Water",
+        "Aloe Barbadensis Leaf Water", "Propanediol", "Glycerin", "Triethanolamine",
+        "Aminomethyl Propanol", "Panax Ginseng Root Extract", "Tasmannia Lanceolata Fruit/Leaf Extract",
+        "Aspartic Acid", "Alanine", "Glycine", "Serine", "Valine", "Isoleucine", "Proline",
+        "Threonine", "Histidine", "Phenylalanine", "Glutamic Acid", "Arginine", "PCA",
+        "Sodium PCA", "Sodium Lactate", "Fructose", "Glucose", "Sucrose", "Urea",
+        "Hexyl Nicotinate", "Dextrin", "Phenoxyethanol", "Chlorphenesin", "1,2-Hexanediol",
+        "Caprylyl Glycol"
+      ],
+      "description": "An exfoliating toning solution with 7% Glycolic Acid to improve skin radiance and clarity."
+    },
+    {
+      "id": 29,
+      "product_name": "Laneige Water Sleeping Mask EX",
+      "brand_name": "Laneige",
+      "category": "Mask",
+      "skin_type": ["All Skin Types", "Dry", "Dehydrated"],
+      "usage_time": ["Night"],
+      "image_url": "/assets/images/product-placeholders/laneige-water-mask.jpg",
+      "ingredients": [
+        "Aqua", "Butylene Glycol", "Cyclopentasiloxane", "Glycerin", "Trehalose", "Alcohol Denat.",
+        "Dimethicone", "Polysorbate 20", "Polypropylsilsesquioxane", "Phenoxyethanol", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Tromethamine", "Dimethiconol", "Ammonium Acryloyldimethyltaurate/VP Copolymer", "Xanthan Gum",
+        "Glyceryl Caprylate", "Fragrance", "Ethylhexylglycerin", "Disodium EDTA", "Camellia Sinensis Leaf Extract"
+      ],
+      "description": "An overnight hydrating mask formulated with Sleeping Micro Biome™ and Squalane to intensely hydrate and nourish skin."
+    },
+    {
+      "id": 30,
+      "product_name": "Beauty of Joseon Ginseng Essence Water",
+      "brand_name": "Beauty of Joseon",
+      "category": "Toner",
+      "skin_type": ["All Skin Types", "Dull", "Aging"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/bojc-ginseng-essence.jpg",
+      "ingredients": [
+        "Panax Ginseng Root Water", "Butylene Glycol", "Glycerin", "Propanediol", "Niacinamide",
+        "1,2-Hexanediol", "Water", "Hydroxyacetophenone", "Glyceryl Glucoside", "Panax Ginseng Root Extract",
+        "Dipotassium Glycyrrhizate", "Adenosine", "Sodium Hyaluronate", "Xanthan Gum",
+        "Disodium EDTA", "Allantoin", "Arginine", "Carbomer", "Cocos Nucifera (Coconut) Fruit Extract",
+        "Schisandra Chinensis Fruit Extract", "Glycine Max (Soybean) Seed Extract", "Ceratonia Siliqua (Carob) Gum",
+        "Sucrose", "Pentylene Glycol", "Caprylyl Glycol"
+      ],
+      "description": "A hydrating essence water formulated with 80% Ginseng root water and Ginseng Complex for skin elasticity and moisture."
+    },
+    {
+      "id": 31,
+      "product_name": "Isntree Green Tea Fresh Toner",
+      "brand_name": "Isntree",
+      "category": "Toner",
+      "skin_type": ["Oily", "Combination", "Acne-Prone"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/isntree-green-tea-toner.jpg",
+      "ingredients": [
+        "Camellia Sinensis Leaf Extract", "Aqua", "Ginkgo Biloba Leaf Extract", "Centella Asiatica Extract",
+        "Salix Alba (Willow) Bark Extract", "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+        "Pinus Palustris Leaf Extract", "Ulmus Davidiana Root Extract", "Oenothera Biennis (Evening Primrose) Flower Extract",
+        "Pueraria Lobata Root Extract", "Hydrolyzed Hyaluronic Acid", "Beta-Glucan", "Allantoin",
+        "Dipotassium Glycyrrhizate", "Ammonium Acryloyldimethyltaurate/VP Copolymer", "Disodium EDTA",
+        "Hydroxyacetophenone", "Ethylhexylglycerin"
+      ],
+      "description": "A refreshing toner with 80% green tea extract from Jeju Island to balance skin oil-water levels and soothe skin."
+    },
+    {
+      "id": 32,
+      "product_name": "Anua Peach 77% Niacinamide Serum",
+      "brand_name": "Anua",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Dull", "Dry"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/anua-peach-niacinamide.jpg",
+      "ingredients": [
+        "Prunus Persica (Peach) Fruit Extract (77%)", "Niacinamide (5%)", "Glycerin", "Methylpropanediol",
+        "Propanediol", "1,2-Hexanediol", "Butylene Glycol", "Hydrolyzed Collagen", "Ceramide NP",
+        "Sodium Hyaluronate", "Tocopheryl Acetate", "Adenosine", "Xanthan Gum", "Carbomer", "Arginine",
+        "Disodium EDTA", "Ethylhexylglycerin", "Fragrance"
+      ],
+      "description": "A serum infused with 77% peach extract and Niacinamide to brighten and smooth complexion."
+    },
+    {
+      "id": 33,
+      "product_name": "Axis-Y Artichoke Intensive Skin Barrier Ampoule",
+      "brand_name": "Axis-Y",
+      "category": "Serum",
+      "skin_type": ["All Skin Types", "Damaged Barrier", "Sensitive"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/axisy-artichoke-ampoule.jpg",
+      "ingredients": [
+        "Water", "Glycerin", "Cynara Scolymus (Artichoke) Leaf Extract", "Butylene Glycol",
+        "Saccharide Isomerate", "1,2-Hexanediol", "Aloe Barbadensis Leaf Extract", "Adansonia Digitata Seed Extract",
+        "Lactobacillus Ferment", "Cynanchum Atratum Extract", "Hydrolyzed Hyaluronic Acid",
+        "Polyglutamic Acid", "Camellia Sinensis Leaf Water", "Punica Granatum Fruit Extract",
+        "Niacinamide", "Centella Asiatica Extract", "Adenosine", "Carbomer", "Arginine",
+        "Disodium EDTA", "Tocopherol", "Ethylhexylglycerin"
+      ],
+      "description": "An ampoule formulated with artichoke extract to strengthen skin barrier and improve moisture retention."
+    },
+    {
+      "id": 34,
+      "product_name": "Kiehl's Creamy Eye Treatment with Avocado",
+      "brand_name": "Kiehl's",
+      "category": "Eye Cream",
+      "skin_type": ["All Skin Types", "Dry Eye Area"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/kiehls-avocado-eye.jpg",
+      "ingredients": [
+        "Aqua", "Butyrospermum Parkii (Shea) Butter", "Butylene Glycol", "Tridecyl Stearate",
+        "Isodecyl Salicylate", "PEG-30 Dipolyhydroxystearate", "Tridecyl Trimellitate",
+        "Persea Gratissima (Avocado) Oil", "Isopropyl Palmitate", "Polydecene",
+        "Magnesium Sulfate", "Tocopheryl Acetate", "Phenoxyethanol", "Potassium Sorbate",
+        "Disodium EDTA", "Hydrogenated Castor Oil", "Chondrus Crispus (Carrageenan) Extract",
+        "Citric Acid"
+      ],
+      "description": "A hydrating eye cream with Avocado Oil that gently moisturizes the delicate eye area."
+    },
+    {
+      "id": 35,
+      "product_name": "Clinique All About Eyes",
+      "brand_name": "Clinique",
+      "category": "Eye Cream",
+      "skin_type": ["All Skin Types"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/clinique-all-about-eyes.jpg",
+      "ingredients": [
+        "Cyclopentasiloxane", "Water", "Isostearyl Palmitate", "Polyethylene", "Butylene Glycol",
+        "Polysilicone-11", "Ethylene/Acrylic Acid Copolymer", "Palmitoyl Hexapeptide-12",
+        "Saccharomyces Lysate Extract", "Camellia Sinensis (Green Tea) Leaf Extract",
+        "Punica Granatum (Pomegranate) Extract", "Vitis Vinifera (Grape) Seed Extract",
+        "Humulus Lupulus (Hops) Extract", "Astrocaryum Murumuru Seed Butter", "Tocopheryl Acetate"
+      ],
+      "description": "A lightweight eye cream that diminishes the appearance of puffiness and dark circles."
+    },
+    {
+      "id": 36,
+      "product_name": "Olay Regenerist Collagen Peptide 24 Cream",
+      "brand_name": "Olay",
+      "category": "Moisturizer",
+      "skin_type": ["All Skin Types", "Aging", "Dull"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/olay-collagen-peptide.jpg",
+      "ingredients": [
+        "Water", "Glycerin", "Niacinamide", "Isohexadecane", "Dimethicone", "Isopropyl Isostearate",
+        "Stearyl Alcohol", "Sucrose Polystearate", "Cetyl Alcohol", "Palmitoyl Pentapeptide-4",
+        "Tocopheryl Acetate", "Panthenol", "Ceramide NP", "Ethylhexylglycerin", "Glycine Soja (Soybean) Oil",
+        "Disodium EDTA", "Fragrance", "Methylparaben", "Propylparaben", "Phenoxyethanol"
+      ],
+      "description": "Visibly firms skin and smooths the look of fine lines and wrinkles with Collagen Peptide and Niacinamide."
+    },
+    {
+      "id": 37,
+      "product_name": "Neutrogena Hydro Boost Water Gel Cleanser",
+      "brand_name": "Neutrogena",
+      "category": "Cleanser",
+      "skin_type": ["All Skin Types", "Normal", "Oily"],
+      "usage_time": ["Day", "Night"],
+      "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost-cleanser.jpg",
+      "ingredients": [
+        "Aqua", "Glycerin", "Sodium Laureth Sulfate", "Cocamidopropyl Betaine", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Phenoxyethanol", "Sodium Chloride", "Sodium Hydroxide", "Disodium EDTA", "Parfum",
+        "Ethylhexylglycerin", "Benzophenone-4", "Propylene Glycol", "Sodium Hyaluronate", "Magnesium Aspartate",
+        "Zinc Gluconate", "Copper Gluconate", "CI 42090"
+      ],
+      "description": "A lightweight gel cleanser that transforms into a silky lather, removing impurities and boosting hydration."
+    },
+    {
+      "id": 38,
+      "product_name": "Vichy Capital Soleil SPF 50+ UV Age Daily",
+      "brand_name": "Vichy",
+      "category": "Sunscreen",
+      "skin_type": ["All Skin Types", "Aging", "Sensitive"],
+      "usage_time": ["Day"],
+      "image_url": "/assets/images/product-placeholders/vichy-uv-age.jpg",
+      "ingredients": [
+        "Aqua", "Alcohol Denat.", "Diisopropyl Sebacate", "Silica", "Isopropyl Myristate",
+        "Ethylhexyl Salicylate", "Ethylhexyl Triazone", "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+        "Butyl Methoxydibenzoylmethane", "Glycerin", "Propanediol", "C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer",
+        "Perlite", "Tocopherol", "Hydroxyacetophenone", "Caprylyl Glycol", "Terephthalylidene Dicamphor Sulfonic Acid",
+        "Triethanolamine", "Sodium Polyacrylate", "Drometrizole Trisiloxane", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Caprylic/Capric Triglyceride", "Scutellaria Baicalensis Root Extract", "Oryza Sativa (Rice) Bran Extract",
+        "Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate"
+      ],
+      "description": "A very high protection fluid sunscreen that prevents and corrects signs of photo-aging. Ultra-light, non-greasy finish."
+    },
+    {
+    "id": 39,
+    "product_name": "Kind to Skin Soothing Facial Toner",
+    "brand_name": "Simple",
+    "category": "Toner",
+    "skin_type": ["All Skin Types", "Sensitive", "Normal"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-toner.jpg",
+    "ingredients": [
+      "Aqua", "Hydrogenated Starch Hydrolysate", "Hamamelis Virginiana (Witch Hazel) Leaf Water",
+      "Allantoin", "Panthenol", "Niacinamide", "Chamomilla Recutita (Matricaria) Flower Extract",
+      "Sodium PCA", "Glycerin", "Propylene Glycol", "Phenoxyethanol", "Sodium Benzoate",
+      "Disodium EDTA", "Citric Acid"
+    ],
+    "description": "A soothing and refreshing toner that removes last traces of cleanser and tightens pores. Ideal for sensitive skin."
+  },
+  {
+    "id": 40,
+    "product_name": "Protect 'n' Glow Detox & Brighten Clay Mask",
+    "brand_name": "Simple",
+    "category": "Mask",
+    "skin_type": ["All Skin Types", "Dull", "Congested"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/simple-clay-mask.jpg",
+    "ingredients": [
+      "Aqua", "Kaolin", "Glycerin", "Bentonite", "Glyceryl Stearate", "PEG-100 Stearate",
+      "Niacinamide", "Tocopheryl Acetate", "Panthenol", "Xanthan Gum", "Sodium PCA",
+      "Disodium EDTA", "Phenoxyethanol", "Sodium Benzoate", "Citric Acid"
+    ],
+    "description": "A gentle clay mask that helps to detoxify skin and brighten complexion, combating the effects of pollution."
+  },
+  {
+    "id": 41,
+    "product_name": "Kind to Skin Replenishing Rich Moisturiser",
+    "brand_name": "Simple",
+    "category": "Moisturizer",
+    "skin_type": ["Dry", "Very Dry", "Sensitive"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-rich-moisturizer.jpg",
+    "ingredients": [
+      "Aqua", "Glycerin", "Paraffinum Liquidum", "Polyglyceryl-3 Methylglucose Distearate",
+      "Niacinamide", "Glyceryl Stearate", "Stearic Acid", "Dimethicone", "Tocopheryl Acetate",
+      "Panthenol", "BHT", "Citric Acid", "Phenoxyethanol", "Sodium Benzoate"
+    ],
+    "description": "A richer, more intensely hydrating moisturizer for very dry or dehydrated sensitive skin, offering deep nourishment."
+  },
+  {
+    "id": 42,
+    "product_name": "Water Boost Hydrating Eye Gel",
+    "brand_name": "Simple",
+    "category": "Eye Cream",
+    "skin_type": ["Dry", "Dehydrated", "Sensitive"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-eye-gel.jpg",
+    "ingredients": [
+      "Aqua", "Glycerin", "Saccharide Isomerate", "Sodium Hyaluronate", "Panthenol",
+      "Tocopheryl Acetate", "Carbomer", "Sodium Hydroxide", "Disodium EDTA", "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "description": "A lightweight, cooling eye gel that instantly rehydrates and revitalizes tired, dehydrated eyes."
+  },
+  {
+    "id": 43,
+    "product_name": "Spotless Skin Anti-Blemish Fast Action Stick",
+    "brand_name": "Simple",
+    "category": "Treatment",
+    "skin_type": ["Acne-Prone", "Oily"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-blemish-stick.jpg",
+    "ingredients": [
+      "Aqua", "Alcohol Denat.", "Glycerin", "Niacinamide", "Salicylic Acid",
+      "Hamamelis Virginiana (Witch Hazel) Leaf Water", "Allantoin", "Sodium PCA",
+      "Xanthan Gum", "PEG-40 Hydrogenated Castor Oil", "Disodium EDTA", "Sodium Hydroxide"
+    ],
+    "description": "A fast-acting spot treatment to help clear and prevent blemishes without irritating sensitive skin."
+  },
+  {
+    "id": 44,
+    "product_name": "Kind to Skin Purifying Cleansing Lotion",
+    "brand_name": "Simple",
+    "category": "Cleanser",
+    "skin_type": ["Normal", "Dry", "Sensitive"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-lotion-cleanser.jpg",
+    "ingredients": [
+      "Aqua", "Paraffinum Liquidum", "Glyceryl Stearate", "Stearic Acid", "Phenoxyethanol",
+      "Glycerin", "Triethanolamine", "Cetyl Alcohol", "Butylparaben", "Methylparaben",
+      "Propylparaben", "Tocopheryl Acetate", "Retinyl Palmitate", "Helianthus Annuus (Sunflower) Seed Oil"
+    ],
+    "description": "A creamy, non-foaming cleansing lotion that gently purifies skin and removes impurities, leaving it soft."
+  },
+  {
+    "id": 45,
+    "product_name": "Kind to Skin Hydrating Cleansing Oil",
+    "brand_name": "Simple",
+    "category": "Cleanser",
+    "skin_type": ["All Skin Types", "Dry", "Dehydrated"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/simple-cleansing-oil.jpg",
+    "ingredients": [
+      "Vitis Vinifera (Grape) Seed Oil", "Isocetyl Stearate", "PEG-4 Dilaurate", "Sorbeth-30 Tetraoleate",
+      "Tocopherol", "Phenoxyethanol"
+    ],
+    "description": "A gentle cleansing oil that effortlessly dissolves makeup and impurities, leaving skin soft and hydrated."
+  },
+  {
+    "id": 46,
+    "product_name": "Protect 'n' Glow Express Glow Clay Stick",
+    "brand_name": "Simple",
+    "category": "Mask",
+    "skin_type": ["All Skin Types", "Dull"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/simple-clay-stick.jpg",
+    "ingredients": [
+      "Glycerin", "Kaolin", "Aqua", "Propylene Glycol", "Sodium Stearate",
+      "Titanium Dioxide", "Niacinamide", "Tocopheryl Acetate", "Panthenol",
+      "Citric Acid", "Phenoxyethanol"
+    ],
+    "description": "An easy-to-use clay stick mask for a quick detox and radiant glow, perfect for targeted application."
+  },
+   {
+    "id": 47,
+    "product_name": "Volcanic Pore Clay Mask",
+    "brand_name": "Innisfree",
+    "category": "Mask",
+    "skin_type": ["Oily", "Combination", "Acne-Prone", "Congested"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/innisfree-volcanic-mask.jpg",
+    "ingredients": [
+      "Water", "Titanium Dioxide (CI 77891)", "Butylene Glycol", "Volcanic Ash", "Glycerin",
+      "Silica", "Trehalose", "Kaolin", "Bentonite", "Polyvinyl Alcohol", "Caprylic/Capric Triglyceride",
+      "Zinc Oxide (CI 77947)", "Glyceryl Stearate", "Stearic Acid", "Xanthan Gum",
+      "Tetrasodium Pyrophosphate", "Disodium EDTA", "Iron Oxides (CI 77491)"
+    ],
+    "description": "A pore-clearing clay mask formulated with Jeju Volcanic Cluster Spheres™ to absorb excess sebum and cleanse pores."
+  },
+  {
+    "id": 48,
+    "product_name": "Jeju Cherry Blossom Jelly Cream",
+    "brand_name": "Innisfree",
+    "category": "Moisturizer",
+    "skin_type": ["All Skin Types", "Dull", "Dehydrated"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/innisfree-cherry-blossom.jpg",
+    "ingredients": [
+      "Water", "Dipropylene Glycol", "Niacinamide", "Betaine", "1,2-Hexanediol", "Carbomer",
+      "Tromethamine", "Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer",
+      "Glycerin", "Glyceryl Caprylate", "Fragrance", "Ethylhexylglycerin", "Disodium EDTA",
+      "Propanediol", "Prunus Yedoensis Leaf Extract", "Tocopherol"
+    ],
+    "description": "A lightweight jelly cream infused with Jeju Cherry Blossom leaf extract for clear, glowing skin."
+  },
+  {
+    "id": 49,
+    "product_name": "Bija Trouble Facial Foam",
+    "brand_name": "Innisfree",
+    "category": "Cleanser",
+    "skin_type": ["Oily", "Acne-Prone"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/innisfree-bija-foam.jpg",
+    "ingredients": [
+      "Water", "Glycerin", "Stearic Acid", "Myristic Acid", "PEG-32", "Potassium Hydroxide",
+      "Lauric Acid", "Palmitic Acid", "Glyceryl Stearate", "Cocamidopropyl Betaine",
+      "Torreya Nucifera Seed Oil", "Salicylic Acid", "Fragrance", "Disodium EDTA",
+      "Menthol", "Camellia Sinensis Leaf Extract", "Citrus Unshiu Peel Extract",
+      "Orchid Extract", "Camellia Japonica Leaf Extract", "Opuntia Coccinellifera Fruit Extract"
+    ],
+    "description": "A refreshing facial foam with Jeju Bija oil that helps to deep cleanse and care for troubled skin."
+  },
+  {
+    "id": 50,
+    "product_name": "Green Tea Seed Cream",
+    "brand_name": "Innisfree",
+    "category": "Moisturizer",
+    "skin_type": ["Dry", "Dehydrated", "Normal"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/innisfree-green-tea-cream.jpg",
+    "ingredients": [
+      "Water", "Glycerin", "Propanediol", "Pentaerythrityl Tetraethylhexanoate", "Cyclopentasiloxane",
+      "Hydrogenated Poly(C6-14 Olefin)", "Cyclohexasiloxane", "Camellia Sinensis Seed Oil",
+      "Glyceryl Stearate", "1,2-Hexanediol", "Cetearyl Alcohol", "Tocopherol", "Ethylhexylglycerin",
+      "Fragrance", "Disodium EDTA"
+    ],
+    "description": "A deeply hydrating cream with green tea seed oil and green tea extract for moisturized and healthy-looking skin."
+  },
+  {
+    "id": 51,
+    "product_name": "Orchid Enriched Cream",
+    "brand_name": "Innisfree",
+    "category": "Moisturizer",
+    "skin_type": ["Aging", "Dry", "Normal"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/innisfree-orchid-cream.jpg",
+    "ingredients": [
+      "Water", "Cyclopentasiloxane", "Propanediol", "Glycerin", "Cyclohexasiloxane",
+      "Dimethicone", "Pentaerythrityl Tetraethylhexanoate", "Camellia Sinensis Leaf Extract",
+      "Orchid Extract", "Citrus Unshiu Peel Extract", "Opuntia Coccinellifera Fruit Extract",
+      "Camellia Japonica Leaf Extract", "Arbutin", "Adenosine", "Theobroma Cacao (Cocoa) Extract",
+      "Dextrin", "Phenoxyethanol", "Fragrance", "Disodium EDTA"
+    ],
+    "description": "An anti-aging cream formulated with Jeju Orchid to help firm, brighten, and nourish skin."
+  },
+  {
+    "id": 52,
+    "product_name": "UV Perfect Milk SPF50+ PA++++",
+    "brand_name": "Biore",
+    "category": "Sunscreen",
+    "skin_type": ["All Skin Types", "Oily", "Combination"],
+    "usage_time": ["Day"],
+    "image_url": "/assets/images/product-placeholders/biore-uv-milk.jpg",
+    "ingredients": [
+      "Cyclopentasiloxane", "Water", "Zinc Oxide", "Ethylhexyl Methoxycinnamate", "Alcohol",
+      "Dimethicone", "Titanium Dioxide", "Ethylhexyl Triazone", "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+      "Polysorbate 60", "Hydrated Silica", "Aluminum Hydroxide", "Stearic Acid",
+      "Sorbitan Sesquioleate", "Xanthan Gum", "Methylparaben", "Tocopherol", "BHT", "Fragrance"
+    ],
+    "description": "A powerful, long-lasting sunscreen milk that provides broad-spectrum UV protection with a smooth, non-sticky finish, ideal for daily use and sports."
+  },
+  {
+    "id": 53,
+    "product_name": "Uru Uru 2-in-1 Makeup Remover & Cleanser",
+    "brand_name": "Biore",
+    "category": "Cleanser",
+    "skin_type": ["All Skin Types", "Normal", "Dry"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/biore-uru-uru-cleanser.jpg",
+    "ingredients": [
+      "Water", "Glycerin", "PEG-12 Laurate", "Butylene Glycol", "Diglycerin",
+      "Sorbeth-30 Tetraoleate", "PPG-9 Diglyceryl Ether", "Alcohol", "Fragrance",
+      "Sodium Hyaluronate", "Royal Jelly Extract", "Phenoxyethanol"
+    ],
+    "description": "A gentle and effective 2-in-1 cleanser that effortlessly removes makeup and impurities while keeping skin hydrated, leaving it soft and refreshed."
+  },
+  {
+    "id": 54,
+    "product_name": "Pore Strips - Blackhead Remover",
+    "brand_name": "Biore",
+    "category": "Treatment",
+    "skin_type": ["Oily", "Combination", "Congested"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/biore-pore-strips.jpg",
+    "ingredients": [
+      "Polyquaternium-37", "Silica", "Water", "Glycerin", "Titanium Dioxide",
+      "Hamamelis Virginiana (Witch Hazel) Extract", "Butylene Glycol", "Methylparaben"
+    ],
+    "description": "Nose strips designed to instantly clean and unclog pores, lifting away blackheads and leaving skin feeling clean and smooth."
+  },
+  {
+    "id": 55,
+    "product_name": "Moisturizing Cream",
+    "brand_name": "CeraVe",
+    "category": "Moisturizer",
+    "skin_type": ["Dry", "Very Dry", "Sensitive"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cerave-moisturizing-cream.jpg",
+    "ingredients": [
+      "Aqua", "Glycerin", "Cetearyl Alcohol", "Caprylic/Capric Triglyceride", "Cetyl Alcohol",
+      "Ceteareth-20", "Petrolatum", "Potassium Phosphate", "Ceramide NP", "Ceramide AP",
+      "Ceramide EOP", "Carbomer", "Dimethicone", "Behentrimonium Methosulfate",
+      "Sodium Lauroyl Lactylate", "Sodium Hyaluronate", "Cholesterol", "Phenoxyethanol",
+      "Disodium EDTA", "Dipotassium Phosphate", "Xanthan Gum", "Phytosphingosine",
+      "Ethylhexylglycerin"
+    ],
+    "description": "A rich, non-greasy moisturizing cream that provides 24-hour hydration and helps restore the protective skin barrier with three essential ceramides."
+  },
+  {
+    "id": 56,
+    "product_name": "Foaming Facial Cleanser",
+    "brand_name": "CeraVe",
+    "category": "Cleanser",
+    "skin_type": ["Normal", "Oily"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cerave-foaming-cleanser.jpg",
+    "ingredients": [
+      "Aqua", "Glycerin", "Caprylic/Capric Triglyceride", "Behentrimonium Methosulfate",
+      "Cetearyl Alcohol", "Ceramide NP", "Ceramide AP", "Ceramide EOP", "Carbomer",
+      "Dimethicone", "Methylparaben", "Polysorbate 20", "Sodium Lauroyl Lactylate",
+      "Cholesterol", "Disodium EDTA", "Propylparaben", "Phytosphingosine", "Xanthan Gum",
+      "Sphingosine", "Tocopherol"
+    ],
+    "description": "A foaming gel cleanser that effectively removes excess oil, dirt, and makeup. Formulated with ceramides to maintain skin's natural barrier."
+  },
+  {
+    "id": 57,
+    "product_name": "PM Facial Moisturizing Lotion",
+    "brand_name": "CeraVe",
+    "category": "Moisturizer",
+    "skin_type": ["All Skin Types", "Normal", "Oily"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/cerave-pm-lotion.jpg",
+    "ingredients": [
+      "Aqua", "Glycerin", "Caprylic/Capric Triglyceride", "Niacinamide", "Cetearyl Alcohol",
+      "Potassium Phosphate", "Ceramide NP", "Ceramide AP", "Ceramide EOP", "Carbomer",
+      "Dimethicone", "Ceteareth-20", "Behentrimonium Methosulfate", "Sodium Lauroyl Lactylate",
+      "Sodium Hyaluronate", "Cholesterol", "Phenoxyethanol", "Disodium EDTA",
+      "Dipotassium Phosphate", "Xanthan Gum", "Phytosphingosine", "Ethylhexylglycerin"
+    ],
+    "description": "A lightweight, oil-free nighttime moisturizer that hydrates and helps restore the protective skin barrier. Contains ceramides, hyaluronic acid, and niacinamide."
+  },
+   {
+    "id": 58,
+    "product_name": "Oil-Free Acne Wash",
+    "brand_name": "Neutrogena",
+    "category": "Cleanser",
+    "skin_type": ["Oily", "Acne-Prone"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/neutrogena-oil-free-acne-wash.jpg",
+    "ingredients": [
+      "Salicylic Acid (2%)", "Water", "Sodium C14-16 Olefin Sulfonate", "Cocamidopropyl Betaine",
+      "Glycerin", "PEG-80 Sorbitan Laurate", "C12-15 Alkyl Lactate", "Disodium EDTA",
+      "Benzalkonium Chloride", "Parfum", "Cocamidopropyl PG-Dimonium Chloride Phosphate",
+      "Propylene Glycol", "Aloe Barbadensis Leaf Extract", "Chamomilla Recutita (Matricaria) Flower Extract"
+    ],
+    "description": "A daily acne facial cleanser formulated with salicylic acid to help clear breakouts and prevent new ones from forming."
+  },
+  {
+    "id": 59,
+    "product_name": "Rapid Wrinkle Repair Regenerating Cream",
+    "brand_name": "Neutrogena",
+    "category": "Moisturizer",
+    "skin_type": ["All Skin Types", "Aging", "Dull"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/neutrogena-rapid-wrinkle-repair-cream.jpg",
+    "ingredients": [
+      "Water", "Pentaerythrityl Tetraethylhexanoate", "Glycerin", "Dimethicone", "PPG-15 Stearyl Ether",
+      "Stearyl Alcohol", "Cetearyl Alcohol", "Butylene Glycol", "Ceteareth-20", "Isohexadecane",
+      "Retinol", "Hydrolyzed Myrtus Communis Leaf Extract", "Ascorbic Acid", "Sodium Hyaluronate",
+      "Polysorbate 20", "Sodium Polyacrylate", "Polyacrylamide", "C13-14 Isoparaffin",
+      "Laureth-7", "Phenoxyethanol", "Caprylyl Glycol", "Disodium EDTA", "BHT", "Sodium Hydroxide",
+      "Fragrance"
+    ],
+    "description": "An anti-aging facial moisturizer with Accelerated Retinol SA to visibly reduce the look of stubborn wrinkles and diminish the appearance of age spots."
+  },
+  {
+    "id": 60,
+    "product_name": "Ultra Sheer Dry-Touch Sunscreen SPF 55",
+    "brand_name": "Neutrogena",
+    "category": "Sunscreen",
+    "skin_type": ["All Skin Types"],
+    "usage_time": ["Day"],
+    "image_url": "/assets/images/product-placeholders/neutrogena-ultra-sheer-spf55.jpg",
+    "ingredients": [
+      "Avobenzone 3%", "Homosalate 10%", "Octisalate 5%", "Octocrylene 2.8%", "Oxybenzone 6%",
+      "Water", "Styrene/Acrylates Copolymer", "Silica", "Dimethicone", "Potassium Cetyl Phosphate",
+      "Benzyl Alcohol", "Caprylyl Methicone", "Glyceryl Stearate", "PEG-100 Stearate",
+      "Tricontanyl PVP", "Cetyl Dimethicone", "Ethylhexylglycerin", "Sodium Hydroxide",
+      "Acrylates/C10-30 Alkyl Acrylate Crosspolymer", "Disodium EDTA", "Methylisothiazolinone",
+      "BHT", "Fragrance"
+    ],
+    "description": "A non-greasy, fast-absorbing sunscreen that provides broad-spectrum UVA/UVB protection with a clean, ultra-light feel."
+  },
+  {
+    "id": 61,
+    "product_name": "Cream Skin Toner & Moisturizer",
+    "brand_name": "Laneige",
+    "category": "Toner",
+    "skin_type": ["All Skin Types", "Dry", "Dehydrated", "Sensitive"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/laneige-cream-skin.jpg",
+    "ingredients": [
+      "Water", "Butylene Glycol", "Glycerin", "Limnanthes Alba (Meadowfoam) Seed Oil",
+      "1,2-Hexanediol", "Polyglyceryl-10 Stearate", "Glyceryl Stearate Citrate",
+      "Sodium Stearoyl Glutamate", "Disodium EDTA", "Ethylhexylglycerin", "Dipotassium Glycyrrhizate",
+      "Hydrolyzed Hyaluronic Acid", "Ceramide NP", "Saccharomyces Ferment Filtrate",
+      "Camellia Sinensis Leaf Extract"
+    ],
+    "description": "A 2-in-1 toner and moisturizer that preps and hydrates skin with a single step, combining the benefits of a toner with the deep hydration of a cream."
+  },
+  {
+    "id": 62,
+    "product_name": "Water Bank Blue Hyaluronic Serum",
+    "brand_name": "Laneige",
+    "category": "Serum",
+    "skin_type": ["All Skin Types", "Dehydrated", "Normal", "Oily"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/laneige-water-bank-serum.jpg",
+    "ingredients": [
+      "Water", "Butylene Glycol", "Dipropylene Glycol", "1,2-Hexanediol", "Squalane",
+      "Glyceryl Stearate Citrate", "Cetearyl Alcohol", "Mannitol", "Hydrolyzed Hyaluronic Acid",
+      "Sodium Hyaluronate", "Ceramide NP", "Glycerin", "Tocopherol", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+      "Tromethamine", "Disodium EDTA", "Ethylhexylglycerin", "Fragrance"
+    ],
+    "description": "A powerful, deeply hydrating serum that strengthens the skin's moisture barrier with Blue Hyaluronic Acid, leaving skin dewy and plump."
+  },
+  {
+    "id": 63,
+    "product_name": "Cica Sleeping Mask",
+    "brand_name": "Laneige",
+    "category": "Mask",
+    "skin_type": ["Sensitive", "Dry", "Redness"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/laneige-cica-mask.jpg",
+    "ingredients": [
+      "Water", "Centella Asiatica Leaf Extract", "Butylene Glycol", "Glycerin",
+      "Pentaerythrityl Tetraethylhexanoate", "1,2-Hexanediol", "Hydrogenated Poly(C6-14 Olefin)",
+      "Caprylic/Capric Triglyceride", "Behenyl Alcohol", "Dimethicone", "Hydroxypropyl Starch Phosphate",
+      "Cetearyl Alcohol", "Dipalmitoyl Hydroxyproline", "Madecassoside", "Asiaticoside",
+      "Madecassic Acid", "Asiatic Acid", "Tocopherol", "Phenoxyethanol", "Ethylhexylglycerin"
+    ],
+    "description": "An overnight sleeping mask formulated with Laneige's patented Forest Yeast extract and Cica to strengthen the skin barrier and soothe sensitive skin."
+  },
+  {
+    "id": 64,
+    "product_name": "Daily Purifying Treatment Toner",
+    "brand_name": "Axis-Y",
+    "category": "Toner",
+    "skin_type": ["Oily", "Acne-Prone", "Combination"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/axisy-purifying-toner.jpg",
+    "ingredients": [
+      "Centella Asiatica Extract", "Tea Tree Leaf Extract", "Saccharomyces Ferment Filtrate",
+      "Betaine Salicylate", "Sucrose", "Water", "Butylene Glycol", "1,2-Hexanediol",
+      "Sodium Hyaluronate", "Allantoin", "Hamamelis Virginiana (Witch Hazel) Extract",
+      "Salix Alba (Willow) Bark Extract", "Cynara Scolymus (Artichoke) Leaf Extract",
+      "Scutellaria Baicalensis Root Extract", "Paeonia Suffruticosa Root Extract",
+      "Glycyrrhiza Glabra (Licorice) Root Extract"
+    ],
+    "description": "A mild toner with salicylic acid and tea tree that gently exfoliates, purifies pores, and helps calm acne-prone skin without irritation."
+  },
+  {
+    "id": 65,
+    "product_name": "Spot The Difference Blemish Treatment",
+    "brand_name": "Axis-Y",
+    "category": "Treatment",
+    "skin_type": ["Acne-Prone", "Oily", "Blemishes"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/axisy-blemish-treatment.jpg",
+    "ingredients": [
+      "Water", "Melaleuca Alternifolia (Tea Tree) Leaf Extract", "Centella Asiatica Extract",
+      "Houttuynia Cordata Extract", "Saccharomyces Ferment Filtrate", "Glycerin",
+      "Propanediol", "Sodium Citrate", "Salicylic Acid", "Lactobionic Acid",
+      "Madecassoside", "Asiaticoside", "Madecassic Acid", "Asiatic Acid", "Allantoin",
+      "Butylene Glycol", "1,2-Hexanediol", "Ethylhexylglycerin", "Dipotassium Glycyrrhizate"
+    ],
+    "description": "A fast-acting blemish treatment formulated with Tea Tree and Centella Asiatica to calm irritation and speed up healing of acne spots."
+  },
+  {
+    "id": 66,
+    "product_name": "Heartleaf My Type Calming Cream",
+    "brand_name": "Axis-Y",
+    "category": "Moisturizer",
+    "skin_type": ["Sensitive", "Redness", "All Skin Types"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/axisy-heartleaf-cream.jpg",
+    "ingredients": [
+      "Water", "Glycerin", "Houttuynia Cordata Extract", "Butylene Glycol", "Caprylic/Capric Triglyceride",
+      "Cetyl Ethylhexanoate", "Polyglyceryl-3 Methylglucose Distearate", "1,2-Hexanediol",
+      "Sorbitan Olivate", "Glyceryl Stearate", "Carbomer", "Arginine", "Ethylhexylglycerin",
+      "Allantoin", "Sodium Hyaluronate", "Tocopherol", "Melia Azadirachta Leaf Extract",
+      "Melia Azadirachta Flower Extract", "Curcuma Longa (Turmeric) Root Extract",
+      "Ocimum Sanctum Leaf Extract", "Corallina Officinalis Extract"
+    ],
+    "description": "A lightweight, soothing cream infused with Heartleaf extract to calm irritated skin and provide balanced hydration, leaving a fresh finish."
+  },
+  {
+    "id": 67,
+    "product_name": "Gentle Skin Cleanser",
+    "brand_name": "Cetaphil",
+    "category": "Cleanser",
+    "skin_type": ["All Skin Types", "Sensitive", "Dry"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cetaphil-gentle-cleanser.jpg",
+    "ingredients": [
+      "Water", "Cetyl Alcohol", "Propylene Glycol", "Sodium Lauryl Sulfate", "Stearyl Alcohol",
+      "Methylparaben", "Propylparaben", "Butylparaben"
+    ],
+    "description": "A mild, non-foaming cleanser that gently yet effectively cleanses without irritating or stripping skin of its natural moisture, leaving it soft and smooth."
+  },
+  {
+    "id": 68,
+    "product_name": "Daily Facial Moisturizer SPF 15",
+    "brand_name": "Cetaphil",
+    "category": "Moisturizer",
+    "skin_type": ["Normal", "Combination", "Sensitive"],
+    "usage_time": ["Day"],
+    "image_url": "/assets/images/product-placeholders/cetaphil-daily-moisturizer-spf15.jpg",
+    "ingredients": [
+      "Avobenzone 3%", "Octinoxate 7.5%", "Octisalate 5%", "Water", "Diisopropyl Adipate",
+      "Cyclopentasiloxane", "Glycerin", "Glyceryl Stearate", "PEG-100 Stearate",
+      "Polymethyl Methacrylate", "Phenoxyethanol", "Benzyl Alcohol", "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+      "Tocopheryl Acetate", "Carbomer", "Disodium EDTA", "Triethanolamine"
+    ],
+    "description": "A lightweight, non-greasy lotion that provides daily hydration and broad-spectrum SPF 15 protection for sensitive skin."
+  },
+  {
+    "id": 69,
+    "product_name": "PRO Redness Relieving Night Moisturizer",
+    "brand_name": "Cetaphil",
+    "category": "Moisturizer",
+    "skin_type": ["Sensitive", "Redness", "Dry"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/cetaphil-redness-night-moisturizer.jpg",
+    "ingredients": [
+      "Aqua", "Caprylic/Capric Triglyceride", "Glycerin", "Propanediol", "Pentylene Glycol",
+      "Helianthus Annuus (Sunflower) Seed Oil", "Sorbitol", "Dimethicone",
+      "Butyrospermum Parkii (Shea) Butter", "Ceramide NP", "Ceramide AP", "Ceramide EOP",
+      "Allantoin", "Dipotassium Glycyrrhizate", "Squalane", "Tocopherol", "Phytosphingosine",
+      "Cholesterol", "Xanthan Gum", "Carbomer", "Sodium Cetearyl Sulfate", "Disodium EDTA",
+      "Sodium Hydroxide", "Ascorbyl Palmitate", "Phenoxyethanol"
+    ],
+    "description": "A soothing night moisturizer specifically designed for redness-prone skin, providing continuous hydration and improving skin's texture."
+  },
+   {
+    "id": 70,
+    "product_name": "Hyaluronic Acid 2% + B5",
+    "brand_name": "The Ordinary",
+    "category": "Serum",
+    "skin_type": ["All Skin Types", "Dehydrated", "Dry"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/theordinary-hyaluronic-acid.jpg",
+    "ingredients": [
+      "Aqua", "Sodium Hyaluronate", "Pentylene Glycol", "Propanediol", "Sodium Hyaluronate Crosspolymer",
+      "Panthenol", "Ahnfeltia Concinna Extract", "Glycerin", "Trisodium Ethylenediamine Disuccinate",
+      "Citric Acid", "Isoceteth-20", "Ethoxydiglycol", "Caprylyl Glycol", "Hexylene Glycol",
+      "Phenoxyethanol", "Chlorphenesin"
+    ],
+    "description": "A hydrating formula with ultra-pure, vegan hyaluronic acid to support healthy hydration."
+  },
+  {
+    "id": 71,
+    "product_name": "Salicylic Acid 2% Solution",
+    "brand_name": "The Ordinary",
+    "category": "Treatment",
+    "skin_type": ["Oily", "Acne-Prone", "Blemishes"],
+    "usage_time": ["Night"],
+    "image_url": "/assets/images/product-placeholders/theordinary-salicylic-acid.jpg",
+    "ingredients": [
+      "Aqua", "Saccharide Isomerate", "Cocamidopropyl Dimethylamine", "Salicylic Acid",
+      "Hydroxyethylcellulose", "Polysorbate 20", "Citric Acid", "Sodium Citrate",
+      "Sodium Hydroxide", "Phenoxyethanol", "Chlorphenesin"
+    ],
+    "description": "A 2% salicylic acid treatment to help exfoliate the inside walls of pores to fight the appearance of blemishes and for better visible skin clarity."
+  },
+  {
+    "id": 72,
+    "product_name": "Azelaic Acid Suspension 10%",
+    "brand_name": "The Ordinary",
+    "category": "Treatment",
+    "skin_type": ["All Skin Types", "Redness", "Dull", "Uneven Tone"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/theordinary-azelaic-acid.jpg",
+    "ingredients": [
+      "Aqua", "Isodecyl Neopentanoate", "Dimethicone", "Azelaic Acid", "Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer",
+      "Dimethicone/Vinyl Dimethicone Crosspolymer", "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+      "Polysorbate 60", "Triethanolamine", "Ethylhexylglycerin", "Caprylyl Glycol",
+      "Phenoxyethanol", "Chlorphenesin"
+    ],
+    "description": "A multi-functional brightening formula that acts as an antioxidant and brightens skin tone while visibly improving the evenness of skin texture."
+  },
+  {
+    "id": 73,
+    "product_name": "AHA/BHA Clarifying Treatment Toner",
+    "brand_name": "Cosrx",
+    "category": "Toner",
+    "skin_type": ["All Skin Types", "Oily", "Acne-Prone", "Dull"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
+    "ingredients": [
+      "Mineral Water", "Salix Alba (Willow) Bark Water", "Pyrus Malus (Apple) Fruit Water",
+      "Butylene Glycol", "1,2-Hexanediol", "Sodium Lactate", "Glycolic Acid", "Betaine Salicylate",
+      "Allantoin", "Panthenol", "Ethyl Hexanediol"
+    ],
+    "description": "A mild exfoliating toner with AHA and BHA to gently remove dead skin cells and impurities, improving skin texture and clarity."
+  },
+  {
+    "id": 74,
+    "product_name": "Acne Pimple Master Patch",
+    "brand_name": "Cosrx",
+    "category": "Treatment",
+    "skin_type": ["Acne-Prone", "Blemishes"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cosrx-pimple-patch.jpg",
+    "ingredients": [
+      "Cellulose Gum", "Styrene Isoprene Styrene Block Copolymer", "Polyisobutylene",
+      "Petroleum Resin", "Polyurethane Film", "Liquid Paraffin", "Tetrakis Methane"
+    ],
+    "description": "Hydrocolloid patches that protect acne from external pollutants, absorb exudate, and help speed up healing overnight."
+  },
+  {
+    "id": 75,
+    "product_name": "Balancium Comfort Ceramide Cream",
+    "brand_name": "Cosrx",
+    "category": "Moisturizer",
+    "skin_type": ["Dry", "Sensitive", "Damaged Barrier"],
+    "usage_time": ["Day", "Night"],
+    "image_url": "/assets/images/product-placeholders/cosrx-ceramide-cream.jpg",
+    "ingredients": [
+      "Centella Asiatica Leaf Water", "Glycerin", "Caprylic/Capric Triglyceride",
+      "Helianthus Annuus (Sunflower) Seed Oil", "Cetearyl Alcohol", "1,2-Hexanediol",
+      "Macadamia Ternifolia Seed Oil", "Candelilla Wax", "Ceramide NP", "Sorbitan Stearate",
+      "Sorbitan Sesquioleate", "Sucrose Stearate", "Hydrogenated Lecithin",
+      "Phytosphingosine", "Tocopherol", "Cholesterol", "Stearic Acid", "Arginine",
+      "Carbomer", "Xanthan Gum"
+    ],
+    "description": "A soothing cream infused with ceramides and Centella Asiatica to strengthen the skin barrier and provide intense moisture for sensitive and irritated skin."
+  }
+  ]
+}
