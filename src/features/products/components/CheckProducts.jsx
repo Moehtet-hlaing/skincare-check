@@ -19,6 +19,7 @@ const CheckProducts = () => {
     watch, // <-- Import watch from useForm
   } = useForm();
   const navigate = useNavigate();
+  
 
   // Watch the values of product_1 and product_2
   const selectedProduct1Value = watch("product_1");
@@ -57,7 +58,7 @@ const CheckProducts = () => {
     }
   }, [selectedProduct2Value]); // Dependency array: run when selectedProduct2Value changes
 
-  const handleCheck = (data) => {
+  const handleCheck = async (data) => {
     const product1 = JSON.parse(data.product_1);
     const product2 = JSON.parse(data.product_2);
 
@@ -127,17 +128,67 @@ const CheckProducts = () => {
     console.log("Product 1:", prod1);
     console.log("Product 2:", prod2);
 
-  if(prod1.includes("RETINOID") && prod2.includes("AHA")){
-   alert("Combining RETINOID and AHA poses a HIGH risk. Both are potent exfoliants, and using them together can lead to increased irritation, dryness, and disruption of the skin barrier. It is advised to use them on alternate nights or at different times of the day. Introduce each ingredient slowly, and support your skin with barrier-repairing ingredients like ceramides and hyaluronic acid.")
-  }else if(prod1.includes("RETINOID") && prod2.includes("BHA")){
-    alert("Combining RETINOID and BHA poses a HIGH risk. Similar to AHAs, both are strong exfoliants, which increases the risk of dryness, peeling, and irritation. It is recommended to use them on alternate nights or at different times of the day (e.g., BHA in the morning and Retinoid at night).")
-  }else if (prod1.includes("RETINOID") && prod2.includes("BENZOYL_PEROXIDE")){
-    alert("Combining RETINOID and BENZOYL_PEROXIDE poses a HIGH risk. Benzoyl peroxide can deactivate some forms of retinoids, and both ingredients are very drying and irritating to the skin. It is recommended to use them at different times of the day (e.g., benzoyl peroxide in the morning and retinoid at night) or on alternate days. If needed, consider using products specifically formulated to combine both safely.")
-  }
-
-  };
-
+if (
+  (prod1.includes("RETINOID") && prod2.includes("AHA")) ||
+  (prod1.includes("AHA") && prod2.includes("RETINOID"))
+) {
+  data.message = "Combining RETINOID and AHA poses a HIGH risk. Both are potent exfoliants, and using them together can lead to increased irritation, dryness, and disruption of the skin barrier. It is advised to use them on alternate nights or at different times of the day. Introduce each ingredient slowly, and support your skin with barrier-repairing ingredients like ceramides and hyaluronic acid."
+} else if (
+  (prod1.includes("RETINOID") && prod2.includes("BHA")) ||
+  (prod1.includes("BHA") && prod2.includes("RETINOID"))
+) {
+  data.message = "Combining RETINOID and BHA poses a HIGH risk. Similar to AHAs, both are strong exfoliants, which increases the risk of dryness, peeling, and irritation. It is recommended to use them on alternate nights or at different times of the day (e.g., BHA in the morning and Retinoid at night)."
+} else if (
+  (prod1.includes("RETINOID") && prod2.includes("BENZOYL_PEROXIDE")) ||
+  (prod1.includes("BENZOYL_PEROXIDE") && prod2.includes("RETINOID"))
+) {
+  data.message =  "Combining RETINOID and BENZOYL_PEROXIDE poses a HIGH risk. Benzoyl peroxide can deactivate some forms of retinoids, and both ingredients are very drying and irritating to the skin. It is recommended to use them at different times of the day (e.g., benzoyl peroxide in the morning and retinoid at night) or on alternate days. If needed, consider using products specifically formulated to combine both safely."
+} else if (
+  (prod1.includes("VITAMIN_C_LAA") && prod2.includes("BENZOYL_PEROXIDE")) ||
+  (prod1.includes("BENZOYL_PEROXIDE") && prod2.includes("VITAMIN_C_LAA"))
+) {
+  data.message = "Combining VITAMIN_C_LAA and BENZOYL_PEROXIDE poses a HIGH risk. Benzoyl peroxide oxidizes pure Vitamin C, rendering it ineffective. It is recommended to use them at different times of the day (e.g., Vitamin C in the morning and benzoyl peroxide at night) or on alternate days."
+} else if (
+  (prod1.includes("VITAMIN_C_LAA") && prod2.includes("AHA")) ||
+  (prod1.includes("AHA") && prod2.includes("VITAMIN_C_LAA"))
+) {
   return (
+    "Combining VITAMIN_C_LAA and AHA poses a MEDIUM risk. Both are acidic and can cause irritation and over-exfoliation when combined, especially on sensitive skin. It is recommended to use them at different times of the day (Vitamin C in the morning and AHA at night) or on alternate days, and to use lower concentrations."
+  );
+} else if (
+  (prod1.includes("VITAMIN_C_LAA") && prod2.includes("BHA")) ||
+  (prod1.includes("BHA") && prod2.includes("VITAMIN_C_LAA"))
+) {
+  data.message =  "Combining VITAMIN_C_LAA and BHA poses a MEDIUM risk. Both are acidic and can cause irritation and over-exfoliation when combined, especially on sensitive skin. It is recommended to use them at different times of the day (Vitamin C in the morning and BHA at night) or on alternate days, and to use lower concentrations."
+} else if (
+  (prod1.includes("VITAMIN_C_LAA") && prod2.includes("NIACINAMIDE")) ||
+  (prod1.includes("NIACINAMIDE") && prod2.includes("VITAMIN_C_LAA"))
+) {
+  data.message = "Combining VITAMIN_C_LAA and NIACINAMIDE poses a LOW risk. Older studies suggested incompatibility due to the formation of nicotinic acid causing flushing, but modern formulations generally prevent this. There is a potential for mild flushing in very sensitive individuals because of pH differences. Generally, it is safe to use them together. If you have sensitive skin, apply Niacinamide first, wait a few minutes, then apply Vitamin C, or use them at different times of the day."
+}else{
+  data.message = "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.";
+
+}
+const res = await fetch(import.meta.env.VITE_API_URL + "/check-result", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+  },
+  body: JSON.stringify({ 
+    product1: product1, 
+    product2: product2,
+    message: data.message}),
+});
+
+if (res.ok) {
+  const json = await res.json();
+  console.log(json);
+}
+
+};
+//
+return (
     <section className="container mx-auto p-4 md:p-8 lg:p-12 flex flex-col gap-4 bg-white shadow-lg rounded-xl max-w-4xl my-8">
       <h1 className="text-2xl font-bold mb-4 font-gray-800">Check Products</h1>
       <form
@@ -245,6 +296,8 @@ const CheckProducts = () => {
          </div>
     </section>
   );
+
 };
+
 
 export default CheckProducts;
