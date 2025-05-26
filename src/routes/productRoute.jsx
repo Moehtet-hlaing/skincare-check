@@ -18,7 +18,7 @@ const productRoute = [
         element: <CheckProductsPage />
     },
     {
-        path: '/products/check-result',
+        path: '/products/check-ingredients/:checkId',
         element: <CheckResultPage/>
     }
 ]

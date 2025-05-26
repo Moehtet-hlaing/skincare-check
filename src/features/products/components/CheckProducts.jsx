@@ -169,22 +169,32 @@ if (
   data.message = "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.";
 
 }
-const res = await fetch(import.meta.env.VITE_API_URL + "/check-result", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "Accept": "application/json",
-  },
-  body: JSON.stringify({ 
-    product1: product1, 
-    product2: product2,
-    message: data.message}),
-});
+try {
+  const response = await fetch(`${import.meta.env.VITE_API_URL}/check-result`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Accept": "application/json",
+    },
+    body: JSON.stringify({
+      product1,
+      product2,
+      message: data.message,
+    }),
+  });
 
-if (res.ok) {
-  const json = await res.json();
-  console.log(json);
+  if (!response.ok) {
+    throw new Error(`Request failed with status ${response.status}`);
+  }
+
+  const result = await response.json();
+  console.log(result);
+  navigate(`/products/check-ingredients/${result.id}`);
+} catch (error) {
+  console.error("Error submitting check result:", error);
+  // Optionally show a user-friendly message here
 }
+
 
 };
 //

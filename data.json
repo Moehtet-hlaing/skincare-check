@@ -2611,6 +2611,335 @@
     }
   ],
   "check-result": [
-    
+    {
+      "product1": {
+        "id": 4,
+        "product_name": "10% Niacinamide Booster Serum",
+        "brand_name": "Simple",
+        "category": "Serum",
+        "skin_type": [
+          "All Skin Types",
+          "Dull",
+          "Uneven Tone",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
+        "ingredients": [
+          "Aqua",
+          "Niacinamide",
+          "Propanediol",
+          "Saccharide Isomerate",
+          "Glycerin",
+          "Xanthan Gum",
+          "Sodium Benzoate",
+          "Citric Acid"
+        ],
+        "description": "Boosts skin's natural radiance and improves tone and texture with 10% Niacinamide."
+      },
+      "product2": {
+        "id": 12,
+        "product_name": "Green Tea Seed Serum",
+        "brand_name": "Innisfree",
+        "category": "Serum",
+        "skin_type": [
+          "All Skin Types",
+          "Dry",
+          "Dehydrated"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/innisfree-green-tea.jpg",
+        "ingredients": [
+          "Water",
+          "Propanediol",
+          "Glycerin",
+          "Alcohol",
+          "1,2-Hexanediol",
+          "Camellia Sinensis Leaf Extract",
+          "Ceramide NP",
+          "Phytosphingosine",
+          "Tocopherol",
+          "Ethylhexylglycerin",
+          "Disodium EDTA",
+          "Fragrance"
+        ],
+        "description": "A hydrating and nourishing serum with Jeju green tea extract to deliver moisture and antioxidants."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 1
+    },
+    {
+      "product1": {
+        "id": 4,
+        "product_name": "10% Niacinamide Booster Serum",
+        "brand_name": "Simple",
+        "category": "Serum",
+        "skin_type": [
+          "All Skin Types",
+          "Dull",
+          "Uneven Tone",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
+        "ingredients": [
+          "Aqua",
+          "Niacinamide",
+          "Propanediol",
+          "Saccharide Isomerate",
+          "Glycerin",
+          "Xanthan Gum",
+          "Sodium Benzoate",
+          "Citric Acid"
+        ],
+        "description": "Boosts skin's natural radiance and improves tone and texture with 10% Niacinamide."
+      },
+      "product2": {
+        "id": 13,
+        "product_name": "Toleriane Hydrating Gentle Cleanser",
+        "brand_name": "La Roche-Posay",
+        "category": "Cleanser",
+        "skin_type": [
+          "Normal",
+          "Dry",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Pentylene Glycol",
+          "Sodium Cocoamphoacetate",
+          "Coco-Betaine",
+          "Sodium Chloride",
+          "Sodium Hyaluronate",
+          "Ceramide NP",
+          "Phenoxyethanol",
+          "Disodium EDTA",
+          "Citric Acid"
+        ],
+        "description": "A hydrating milky cream cleanser for normal to dry and sensitive skin. Cleanses without stripping moisture."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 2
+    },
+    {
+      "product1": {
+        "id": 5,
+        "product_name": "Protect 'n' Glow Radiance Booster SPF 30",
+        "brand_name": "Simple",
+        "category": "Sunscreen",
+        "skin_type": [
+          "All Skin Types",
+          "Dull"
+        ],
+        "usage_time": [
+          "Day"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-spf.jpg",
+        "ingredients": [
+          "Aqua",
+          "Zinc Oxide",
+          "Ethylhexyl Methoxycinnamate",
+          "Ascorbyl Glucoside",
+          "Glycerin",
+          "Niacinamide",
+          "Tocopheryl Acetate",
+          "Panthenol",
+          "Butylene Glycol",
+          "PEG-100 Stearate",
+          "Glyceryl Stearate",
+          "Dimethicone",
+          "Carbomer",
+          "Xanthan Gum",
+          "Sodium Hydroxide",
+          "Phenoxyethanol",
+          "Disodium EDTA"
+        ],
+        "description": "Protects against UVA/UVB rays with SPF 30 and boosts natural radiance. Perfect for daily wear."
+      },
+      "product2": {
+        "id": 14,
+        "product_name": "Moisturizing Cream",
+        "brand_name": "Cetaphil",
+        "category": "Moisturizer",
+        "skin_type": [
+          "Dry",
+          "Very Dry",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/cetaphil-cream.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Petrolatum",
+          "Dicaprylyl Ether",
+          "Dimethicone",
+          "Glyceryl Stearate",
+          "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+          "Cetyl Alcohol",
+          "PEG-30 Stearate",
+          "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+          "Dimethiconol",
+          "Benzyl Alcohol",
+          "Phenoxyethanol",
+          "Tocopheryl Acetate",
+          "Glyceryl Acrylate/Acrylic Acid Copolymer",
+          "Propylene Glycol",
+          "Disodium EDTA",
+          "Sodium Hydroxide"
+        ],
+        "description": "Intense and lasting hydration for sensitive, dry skin. Non-greasy and fragrance-free."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 3
+    },
+    {
+      "product1": {
+        "id": 3,
+        "product_name": "Water Boost Micellar Cleansing Water",
+        "brand_name": "Simple",
+        "category": "Cleanser",
+        "skin_type": [
+          "Dry",
+          "Dehydrated",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-micellar.jpg",
+        "ingredients": [
+          "Aqua",
+          "Hexylene Glycol",
+          "Glycerin",
+          "PEG-6 Caprylic/Capric Glycerides",
+          "Phenoxyethanol",
+          "Citric Acid",
+          "Saccharide Isomerate",
+          "Sodium Benzoate"
+        ],
+        "description": "Removes makeup and impurities while instantly hydrating thirsty skin. No rinse needed, gentle for sensitive skin."
+      },
+      "product2": {
+        "id": 11,
+        "product_name": "Niacinamide 10% + Zinc 1%",
+        "brand_name": "The Ordinary",
+        "category": "Serum",
+        "skin_type": [
+          "All Skin Types",
+          "Oily",
+          "Acne-Prone",
+          "Blemishes"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/theordinary-niacinamide.jpg",
+        "ingredients": [
+          "Aqua",
+          "Niacinamide",
+          "Pentylene Glycol",
+          "Zinc PCA",
+          "Dimethyl Isosorbide",
+          "Tamarindus Indica Seed Gum",
+          "Xanthan Gum",
+          "Isoceteth-20",
+          "Ethoxydiglycol",
+          "Phenoxyethanol",
+          "Chlorphenesin"
+        ],
+        "description": "High-strength vitamin and mineral blemish formula with 10% pure Niacinamide and 1% Zinc PCA."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 4
+    },
+    {
+      "product1": {
+        "id": 2,
+        "product_name": "Kind to Skin Hydrating Light Moisturiser",
+        "brand_name": "Simple",
+        "category": "Moisturizer",
+        "skin_type": [
+          "All Skin Types",
+          "Sensitive",
+          "Normal",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-light-moisturizer.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Paraffinum Liquidum",
+          "Niacinamide",
+          "Glyceryl Stearate",
+          "Dimethicone",
+          "Tocopheryl Acetate",
+          "Panthenol",
+          "BHT",
+          "Citric Acid"
+        ],
+        "description": "A light, fast-absorbing moisturizer that keeps skin hydrated for up to 12 hours. Contains Pro-Vitamin B5 and Vitamin E. No artificial perfumes or colors."
+      },
+      "product2": {
+        "id": 5,
+        "product_name": "Protect 'n' Glow Radiance Booster SPF 30",
+        "brand_name": "Simple",
+        "category": "Sunscreen",
+        "skin_type": [
+          "All Skin Types",
+          "Dull"
+        ],
+        "usage_time": [
+          "Day"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-spf.jpg",
+        "ingredients": [
+          "Aqua",
+          "Zinc Oxide",
+          "Ethylhexyl Methoxycinnamate",
+          "Ascorbyl Glucoside",
+          "Glycerin",
+          "Niacinamide",
+          "Tocopheryl Acetate",
+          "Panthenol",
+          "Butylene Glycol",
+          "PEG-100 Stearate",
+          "Glyceryl Stearate",
+          "Dimethicone",
+          "Carbomer",
+          "Xanthan Gum",
+          "Sodium Hydroxide",
+          "Phenoxyethanol",
+          "Disodium EDTA"
+        ],
+        "description": "Protects against UVA/UVB rays with SPF 30 and boosts natural radiance. Perfect for daily wear."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 5
+    }
   ]
 }
