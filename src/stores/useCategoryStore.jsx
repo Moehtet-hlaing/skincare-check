@@ -13,7 +13,7 @@ const useCategoryStore = create((set) => ({
     { id: 8, name: "Mask", isActive: false },
     { id: 9, name: "Eye Cream", isActive: false },
   ],
-  setisActive: (id) => {
+  setIsActive: (id) => {
     set((state) => ({
       categories: state.categories.map((category) =>
         category.id === id ? { ...category, isActive: true } : { ...category, isActive: false }

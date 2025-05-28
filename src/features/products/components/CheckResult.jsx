@@ -15,12 +15,10 @@ const CheckResult = () => {
   if (isLoading) return <PageLoading />;
 
   return (
-    <section className="p-6 max-w-5xl mx-auto">
-      <h1 className="text-xl font-bold text-gray-800 mb-8">Analysis Result</h1>
-
+    <section className="p-6 max-w-4xl">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {[data?.product1, data?.product2].map((product, idx) => (
-          <div key={idx} className="bg-white rounded-2xl shadow-md p-5 flex gap-4 items-start">
+          <div key={idx} className="bg-white rounded-2xl shadow-md p-5 flex gap-4 items-center">
             {product?.image_url ? (
               <img
                 src={product.image_url}
@@ -28,25 +26,25 @@ const CheckResult = () => {
                 className="w-24 h-24 object-cover rounded-xl"
               />
             ) : (
-              <div className="w-24 h-24 bg-gray-200 animate-pulse rounded-xl" />
+              <div className="w-24 h-24 bg-neutral-200 animate-pulse rounded-xl" />
             )}
             <div>
-              <h4 className="text-lg font-semibold text-gray-800 mb-1">
-                {product?.product_name || <div className="h-5 bg-gray-200 w-32 animate-pulse rounded" />}
+              <h4 className="text-lg font-semibold text-neutral-800 mb-1">
+                {product?.product_name || <div className="h-5 bg-neutral-200 w-32 animate-pulse rounded" />}
               </h4>
-              <button className="text-sm px-3 py-1 bg-blue-100 text-blue-700 rounded-full mb-2">
+              <button className="text-sm px-3 py-1 bg-neutral-100 text-neutral-700 rounded-full mb-2">
                 {product?.category || '...'}
               </button>
-              <div>
+              <div className="mb-2">
                 {(product?.usage_time || ['...']).map((el, index) => (
-                  <span key={index} className="text-sm text-gray-600 mb-2">
-                    {el}{' '}
+                  <span key={index} className="text-sm text-neutral-600 p-0.5">
+                   <i> {el}{' '}</i>
                   </span>
                 ))}
               </div>
               <ul className="flex flex-wrap gap-2">
                 {(product?.skin_type || ['...']).map((el, index) => (
-                  <li key={index} className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">
+                  <li key={index} className="bg-neutral-100 text-neutral-700 px-3 py-1 rounded-full text-xs">
                     {el}
                   </li>
                 ))}

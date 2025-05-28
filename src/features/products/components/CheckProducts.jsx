@@ -181,8 +181,7 @@ const CheckProducts = () => {
   };
   //
   return (
-    <section className="max-w-4xl mx-auto my-8 p-6 md:p-10 bg-white shadow-xl rounded-2xl">
-  <h1 className="text-xl font-bold text-gray-800 mb-6 text-center">Check Product Pairing</h1>
+    <section className="max-w-4xl my-8 p-6 md:p-10 bg-white shadow-xl rounded-2xl">
 
   <form
     id="check-form"
@@ -191,11 +190,11 @@ const CheckProducts = () => {
   >
     {/* Product 1 */}
     <div className="flex flex-col gap-2">
-      <label htmlFor="product_1" className="font-medium text-gray-700">Select Product 1</label>
+      <label htmlFor="product_1" className="font-medium text-neutral-700">Select Product 1</label>
       <select
         id="product_1"
         {...register("product_1", { required: true })}
-        className="p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
+        className="p-3 border border-neutral-300 rounded-lg focus:ring focus:ring-neutral-200"
       >
         <option value="">Select Product</option>
         {!isLoading &&
@@ -216,10 +215,10 @@ const CheckProducts = () => {
         <img
           src={image1}
           alt="Product 1"
-          className="w-36 h-36 object-contain rounded-full border p-2 bg-gray-100"
+          className="w-36 h-36 object-contain rounded-full border p-2 bg-neutral-100"
         />
       ) : (
-        <div className="w-36 h-36 flex items-center justify-center rounded-full bg-gray-100 text-gray-500 border">
+        <div className="w-36 h-36 flex items-center justify-center rounded-full bg-neutral-100 text-neutral-500 border">
           No Product 1 Image
         </div>
       )}
@@ -227,11 +226,11 @@ const CheckProducts = () => {
 
     {/* Product 2 */}
     <div className="flex flex-col gap-2">
-      <label htmlFor="product_2" className="font-medium text-gray-700">Select Product 2</label>
+      <label htmlFor="product_2" className="font-medium text-neutral-700">Select Product 2</label>
       <select
         id="product_2"
         {...register("product_2", { required: true })}
-        className="p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-200"
+        className="p-3 border border-neutral-300 rounded-lg focus:ring focus:ring-neutral-200"
       >
         <option value="">Select Product</option>
         {!isLoading &&
@@ -252,10 +251,10 @@ const CheckProducts = () => {
         <img
           src={image2}
           alt="Product 2"
-          className="w-36 h-36 object-contain rounded-full border p-2 bg-gray-100"
+          className="w-36 h-36 object-contain rounded-full border p-2 bg-neutral-100"
         />
       ) : (
-        <div className="w-36 h-36 flex items-center justify-center rounded-full bg-gray-100 text-gray-500 border">
+        <div className="w-36 h-36 flex items-center justify-center rounded-full bg-neutral-100 text-neutral-500 border">
           No Product 2 Image
         </div>
       )}
@@ -276,7 +275,7 @@ const CheckProducts = () => {
     <button
       type="submit"
       form="check-form"
-      className="w-full md:w-1/3 px-6 py-3 bg-blue-700 text-white font-semibold text-center rounded-lg hover:bg-blue-800 focus:ring-4 focus:ring-blue-300"
+      className="w-full md:w-1/3 px-6 py-3 bg-neutral-700 text-white font-semibold text-center rounded-lg hover:bg-neutral-800 focus:ring-4 focus:ring-neutral-300"
     >
       Check
     </button>

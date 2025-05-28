@@ -1,19 +1,19 @@
-import React from "react";
-import useSWR from "swr";
+import React, { useState } from "react";
 import CategoryButton from "./CategoryButton";
 // import Container from "../../../components/Container";
 import useCategoryStore from "../../../stores/useCategoryStore";
 
 const CategoriesSection = () => {
     const { categories } = useCategoryStore();
+
   return (
-    <section>
-      <h1 className="text-2xl font-bold mb-4 font-gray-800">Categories</h1>
-      <div className="flex gap-3 text-nowrap ">
+    <section className="p-4 flex flex-col">
+      <div className=" gap-3 text-nowrap  hide-scrollbar overflow-x-scroll">
         {categories.map((category) => (
           <CategoryButton key={category.id} category={category} />
         ))}
       </div>
+
       
     </section>
   );

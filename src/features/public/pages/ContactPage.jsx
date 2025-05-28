@@ -1,10 +1,11 @@
 import React from 'react'
 import Container from '../../../components/Container'
+import ContactForm from '../components/ContactForm'
 
 const ContactPage = () => {
   return (
     <Container>
-      <div>Contact</div>
+      <ContactForm />
     </Container>
   )
 }

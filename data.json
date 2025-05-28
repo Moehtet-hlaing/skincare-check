@@ -3554,6 +3554,338 @@
       },
       "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
       "id": 14
+    },
+    {
+      "product1": {
+        "id": 3,
+        "product_name": "Water Boost Micellar Cleansing Water",
+        "brand_name": "Simple",
+        "category": "Cleanser",
+        "skin_type": [
+          "Dry",
+          "Dehydrated",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-micellar.jpg",
+        "ingredients": [
+          "Aqua",
+          "Hexylene Glycol",
+          "Glycerin",
+          "PEG-6 Caprylic/Capric Glycerides",
+          "Phenoxyethanol",
+          "Citric Acid",
+          "Saccharide Isomerate",
+          "Sodium Benzoate"
+        ],
+        "description": "Removes makeup and impurities while instantly hydrating thirsty skin. No rinse needed, gentle for sensitive skin."
+      },
+      "product2": {
+        "id": 16,
+        "product_name": "Hydro Boost Water Gel",
+        "brand_name": "Neutrogena",
+        "category": "Moisturizer",
+        "skin_type": [
+          "Normal",
+          "Combination",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+        "ingredients": [
+          "Water",
+          "Dimethicone",
+          "Glycerin",
+          "Dimethicone/Vinyl Dimethicone Crosspolymer",
+          "Sodium Hyaluronate",
+          "Ethylhexylglycerin",
+          "Dimethiconol",
+          "Carbomer",
+          "Polyacrylamide",
+          "C13-14 Isoparaffin",
+          "Laureth-7",
+          "C9-11 Pareth-6",
+          "Fragrance",
+          "Phenoxyethanol",
+          "Blue 1"
+        ],
+        "description": "A refreshing, lightweight water gel that instantly quenches and continuously delivers hydration."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 15
+    },
+    {
+      "product1": {
+        "id": 1,
+        "product_name": "Kind to Skin Refreshing Facial Wash",
+        "brand_name": "Simple",
+        "category": "Cleanser",
+        "skin_type": [
+          "All Skin Types",
+          "Sensitive",
+          "Normal"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-wash.jpg",
+        "ingredients": [
+          "Aqua",
+          "Cocamidopropyl Betaine",
+          "Propylene Glycol",
+          "Hydroxypropyl Methylcellulose",
+          "Sodium Chloride",
+          "Panthenol",
+          "Tocopheryl Acetate",
+          "Pantolactone",
+          "Dipotassium Glycyrrhizate",
+          "Sodium Benzoate",
+          "Disodium EDTA",
+          "Citric Acid"
+        ],
+        "description": "A gentle, 100% soap-free facial wash that cleanses and refreshes your skin without harsh chemicals. Perfect for all skin types, especially sensitive skin."
+      },
+      "product2": {
+        "id": 13,
+        "product_name": "Toleriane Hydrating Gentle Cleanser",
+        "brand_name": "La Roche-Posay",
+        "category": "Cleanser",
+        "skin_type": [
+          "Normal",
+          "Dry",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Pentylene Glycol",
+          "Sodium Cocoamphoacetate",
+          "Coco-Betaine",
+          "Sodium Chloride",
+          "Sodium Hyaluronate",
+          "Ceramide NP",
+          "Phenoxyethanol",
+          "Disodium EDTA",
+          "Citric Acid"
+        ],
+        "description": "A hydrating milky cream cleanser for normal to dry and sensitive skin. Cleanses without stripping moisture."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 16
+    },
+    {
+      "product1": {
+        "id": 1,
+        "product_name": "Kind to Skin Refreshing Facial Wash",
+        "brand_name": "Simple",
+        "category": "Cleanser",
+        "skin_type": [
+          "All Skin Types",
+          "Sensitive",
+          "Normal"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-wash.jpg",
+        "ingredients": [
+          "Aqua",
+          "Cocamidopropyl Betaine",
+          "Propylene Glycol",
+          "Hydroxypropyl Methylcellulose",
+          "Sodium Chloride",
+          "Panthenol",
+          "Tocopheryl Acetate",
+          "Pantolactone",
+          "Dipotassium Glycyrrhizate",
+          "Sodium Benzoate",
+          "Disodium EDTA",
+          "Citric Acid"
+        ],
+        "description": "A gentle, 100% soap-free facial wash that cleanses and refreshes your skin without harsh chemicals. Perfect for all skin types, especially sensitive skin."
+      },
+      "product2": {
+        "id": 16,
+        "product_name": "Hydro Boost Water Gel",
+        "brand_name": "Neutrogena",
+        "category": "Moisturizer",
+        "skin_type": [
+          "Normal",
+          "Combination",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+        "ingredients": [
+          "Water",
+          "Dimethicone",
+          "Glycerin",
+          "Dimethicone/Vinyl Dimethicone Crosspolymer",
+          "Sodium Hyaluronate",
+          "Ethylhexylglycerin",
+          "Dimethiconol",
+          "Carbomer",
+          "Polyacrylamide",
+          "C13-14 Isoparaffin",
+          "Laureth-7",
+          "C9-11 Pareth-6",
+          "Fragrance",
+          "Phenoxyethanol",
+          "Blue 1"
+        ],
+        "description": "A refreshing, lightweight water gel that instantly quenches and continuously delivers hydration."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 17
+    },
+    {
+      "product1": {
+        "id": 4,
+        "product_name": "10% Niacinamide Booster Serum",
+        "brand_name": "Simple",
+        "category": "Serum",
+        "skin_type": [
+          "All Skin Types",
+          "Dull",
+          "Uneven Tone",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
+        "ingredients": [
+          "Aqua",
+          "Niacinamide",
+          "Propanediol",
+          "Saccharide Isomerate",
+          "Glycerin",
+          "Xanthan Gum",
+          "Sodium Benzoate",
+          "Citric Acid"
+        ],
+        "description": "Boosts skin's natural radiance and improves tone and texture with 10% Niacinamide."
+      },
+      "product2": {
+        "id": 13,
+        "product_name": "Toleriane Hydrating Gentle Cleanser",
+        "brand_name": "La Roche-Posay",
+        "category": "Cleanser",
+        "skin_type": [
+          "Normal",
+          "Dry",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Pentylene Glycol",
+          "Sodium Cocoamphoacetate",
+          "Coco-Betaine",
+          "Sodium Chloride",
+          "Sodium Hyaluronate",
+          "Ceramide NP",
+          "Phenoxyethanol",
+          "Disodium EDTA",
+          "Citric Acid"
+        ],
+        "description": "A hydrating milky cream cleanser for normal to dry and sensitive skin. Cleanses without stripping moisture."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 18
+    },
+    {
+      "product1": {
+        "id": 2,
+        "product_name": "Kind to Skin Hydrating Light Moisturiser",
+        "brand_name": "Simple",
+        "category": "Moisturizer",
+        "skin_type": [
+          "All Skin Types",
+          "Sensitive",
+          "Normal",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-light-moisturizer.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Paraffinum Liquidum",
+          "Niacinamide",
+          "Glyceryl Stearate",
+          "Dimethicone",
+          "Tocopheryl Acetate",
+          "Panthenol",
+          "BHT",
+          "Citric Acid"
+        ],
+        "description": "A light, fast-absorbing moisturizer that keeps skin hydrated for up to 12 hours. Contains Pro-Vitamin B5 and Vitamin E. No artificial perfumes or colors."
+      },
+      "product2": {
+        "id": 10,
+        "product_name": "Hydrating Cleanser",
+        "brand_name": "CeraVe",
+        "category": "Cleanser",
+        "skin_type": [
+          "Normal",
+          "Dry",
+          "Sensitive"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/cerave-hydrating.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Cetearyl Alcohol",
+          "Phenoxyethanol",
+          "Stearyl Alcohol",
+          "Cetyl Alcohol",
+          "Ceteareth-20",
+          "Potassium Phosphate",
+          "Sodium Lauroyl Lactylate",
+          "Ceramide NP",
+          "Ceramide AP",
+          "Phytosphingosine",
+          "Cholesterol",
+          "Xanthan Gum",
+          "Carbomer",
+          "Ethylhexylglycerin",
+          "Sodium Hyaluronate",
+          "Ceramide EOP"
+        ],
+        "description": "A non-foaming cream cleanser that gently cleanses and hydrates the skin without stripping moisture. Contains ceramides and hyaluronic acid."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 19
     }
   ]
 }
