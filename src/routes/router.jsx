@@ -3,7 +3,6 @@ import PublicLayout from "../features/public/components/publicLayout";
 import HomePage from "../features/public/pages/HomePage";
 import AboutPage from "../features/public/pages/AboutPage";
 import ContactPage from "../features/public/pages/ContactPage";
-import dashboardRoute from "./dashboardRoute";
 import NotFound from "../components/NotFound";
 import productRoute from "./productRoute";
 
@@ -28,6 +27,7 @@ const router = createBrowserRouter([
         ],        
     },
     ...productRoute
+
 ]);
 
 export default router

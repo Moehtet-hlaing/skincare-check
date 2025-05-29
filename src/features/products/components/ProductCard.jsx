@@ -17,10 +17,10 @@ const ProductCard = ({
 
       {/* Product Content */}
       <div className="p-4 space-y-2 text-center">
-        <h3 className="text-md font-semibold text-neutral-800 ">
+        <h3 className="text-md font-semibold text-neutral-800 line-clamp-1">
           {product_name}
         </h3>
-        <div className="flex gap-2 items-center justify-center">
+        <div className="flex gap-2 items-center justify-center mt-auto">
           <span className="inline-block bg-neutral-300 text-neutral-700 text-xs font-semibold px-3 py-1 rounded-lg">
             {brand_name}
           </span>

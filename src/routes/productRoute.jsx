@@ -1,6 +1,9 @@
 
 import { lazy, Suspense } from "react";
 import PageLoading from "../components/PageLoading";
+import NotFound from "../components/NotFound";
+import ProductLayout from "../features/products/components/ProductLayout";
+import CheckRecordsPage from "../features/products/pages/CheckRecordsPage";
 
 const CheckProductsPage = lazy(() => import("../features/products/pages/CheckProductsPage"));
 const CheckResultPage = lazy(() => import("../features/products/pages/CheckResultPage"));
@@ -10,27 +13,40 @@ const ProductListPage = lazy(() => import("../features/products/pages/ProductLis
 const productRoute = [
     {
         path: '/products',
+        element: <ProductLayout />,
+        errorElement: <NotFound />,
+        children: [
+                {
+        index: true,
         element: <Suspense fallback={<div>Loading...</div>}>
             <ProductListPage />
         </Suspense>
     },
     {
-        path: '/products/:productId',
+        path: ':productId',
         element: <Suspense fallback={<div>Loading...</div>}>
             <ProductDetailPage />
         </Suspense>
     },
     {
-        path: '/products/check-ingredients',
+        path: 'check-ingredients',
         element: <Suspense fallback={<div>Loading...</div>}>
             <CheckProductsPage />
         </Suspense>
     },
     {
-        path: '/products/check-ingredients/:checkId',
+        path: 'check-ingredients/:checkId',
         element: <Suspense fallback={<PageLoading/>}>
             <CheckResultPage />
         </Suspense>
+    },
+{
+    path: 'records',
+    element: <Suspense fallback={<div>Loading...</div>}>
+        <CheckRecordsPage />
+    </Suspense>
+}
+        ]
     }
 ]
 

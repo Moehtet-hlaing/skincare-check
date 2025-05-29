@@ -67,7 +67,7 @@
       "image_url": "/assets/images/product-placeholders/simple-spf.jpg",
       "ingredients": [
         "Aqua", "Zinc Oxide", "Ethylhexyl Methoxycinnamate", "Ascorbyl Glucoside",
-        "Glycerin", "Niacinamide", "Tocopheryl Acetate", "Panthenol", "Butylene Glycol",
+        "Glycerin", "Tocopheryl Acetate", "Panthenol", "Butylene Glycol",
         "PEG-100 Stearate", "Glyceryl Stearate", "Dimethicone", "Carbomer", "Xanthan Gum",
         "Sodium Hydroxide", "Phenoxyethanol", "Disodium EDTA"
       ],
@@ -927,7 +927,7 @@
     "usage_time": ["Day", "Night"],
     "image_url": "/assets/images/product-placeholders/neutrogena-oil-free-acne-wash.jpg",
     "ingredients": [
-      "Salicylic Acid (2%)", "Water", "Sodium C14-16 Olefin Sulfonate", "Cocamidopropyl Betaine",
+      "Salicylic Acid", "Water", "Sodium C14-16 Olefin Sulfonate", "Cocamidopropyl Betaine",
       "Glycerin", "PEG-80 Sorbitan Laurate", "C12-15 Alkyl Lactate", "Disodium EDTA",
       "Benzalkonium Chloride", "Parfum", "Cocamidopropyl PG-Dimonium Chloride Phosphate",
       "Propylene Glycol", "Aloe Barbadensis Leaf Extract", "Chamomilla Recutita (Matricaria) Flower Extract"
@@ -1216,52 +1216,5 @@
     "description": "A soothing cream infused with ceramides and Centella Asiatica to strengthen the skin barrier and provide intense moisture for sensitive and irritated skin."
   }
   ],
-  "categories": [
-    {"id": 1, "name": "Cleanser"},
-    {"id": 2, "name": "Moisturizer"},
-    {"id": 3, "name": "Serum"},
-    {"id": 4, "name": "Sunscreen"},
-    {"id": 5, "name": "Exfoliator"},
-    {"id": 6, "name": "Lip Care"},
-    {"id": 7, "name": "Toner"},
-    {"id": 8, "name": "Mask"},
-    {"id": 9, "name": "Eye Cream"}
-  ],
-  "skin_types": [
-    {"id": 1, "name": "All Skin Types"},
-    {"id": 2, "name": "Normal"},
-    {"id": 3, "name": "Dry"},
-    {"id": 4, "name": "Oily"},
-    {"id": 5, "name": "Sensitive"},
-    {"id": 6, "name": "Acne-Prone"},
-    {"id": 7, "name": "Dehydrated"},
-    {"id": 8, "name": "Dull"},
-    {"id": 9, "name": "Uneven Tone"},
-    {"id": 10, "name": "Aging"},
-    {"id": 11, "name": "Blemishes"},
-    {"id": 12, "name": "Combination"},
-    {"id": 13, "name": "Very Dry"},
-    {"id": 14, "name": "Dry Lips"}
-  ],
-  "brands": [
-    {"id": 1, "name": "Simple"},
-    {"id": 2, "name": "Cosrx"},
-    {"id": 3, "name": "Biore"},
-    {"id": 4, "name": "CeraVe"},
-    {"id": 5, "name": "The Ordinary"},
-    {"id": 6, "name": "Innisfree"},
-    {"id": 7, "name": "La Roche-Posay"},
-    {"id": 8, "name": "Cetaphil"},
-    {"id": 9, "name": "Olay"},
-    {"id": 10, "name": "Neutrogena"},
-    {"id": 11, "name": "Vichy"},
-    {"id": 12, "name": "Paula's Choice"},
-    {"id": 13, "name": "Kiehl's"},
-    {"id": 14, "name": "Clinique"},
-    {"id": 15, "name": "Laneige"},
-    {"id": 16, "name": "Beauty of Joseon"},
-    {"id": 17, "name": "Isntree"},
-    {"id": 18, "name": "Anua"},
-    {"id": 19, "name": "Axis-Y"}
-  ]
+ "check-result": []
 }

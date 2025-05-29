@@ -36,7 +36,7 @@ const HeroSection = () => {
               </Link>
             </div>
           </div>
-          <div className=" w-full">
+          <div className=" w-full pointer-events-none">
             <video src={heroSectionVideo} autoPlay loop muted></video>
           </div>
         </div>

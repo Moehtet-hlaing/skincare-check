@@ -6,7 +6,7 @@ import { Outlet } from 'react-router-dom'
 
 const PublicLayout = () => {
   return (
-    <main className=' flex flex-col min-h-screen'>
+    <main className=' flex flex-col min-h-screen overflow-y-auto'>
       <PublicHeader />
       <Outlet />
       <PublicFooter />

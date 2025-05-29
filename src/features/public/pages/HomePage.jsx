@@ -7,13 +7,13 @@ import ContactPage from './ContactPage'
 
 const HomePage = () => {
   return (
-    <Container>
+    <Container >
       <HeroSection />
-      <AboutPage />
+      <AboutPage /> 
       <StatPage />
       <ContactPage />
     </Container>
   )
-}
+} 
 
 export default HomePage

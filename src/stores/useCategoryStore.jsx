@@ -3,7 +3,8 @@ import { create } from "zustand";
 
 const useCategoryStore = create((set) => ({
   categories: [
-    { id: 1, name: "Cleanser", isActive: true },
+    { id: 0, name: "All", isActive: true },
+    { id: 1, name: "Cleanser", isActive: false },
     { id: 2, name: "Moisturizer", isActive: false },
     { id: 3, name: "Serum", isActive: false },
     { id: 4, name: "Sunscreen", isActive: false },

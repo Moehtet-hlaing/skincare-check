@@ -1,35 +1,23 @@
-export const MENU_LINKS = [
-  {
-    id: 1,
-    label: "Home",
-    offset: -100,
-    to: "hero",
-  },
-  {
-    id: 2,
-    label: "Skills",
-    offset: -80,
-    to: "skills",
-  },
-  {
-    id: 3,
-    label: "About Us",
-    offset: -80,
-    to: "about",
-  },
-  {
-    id: 4,
-    label: "Projects",
-    offset: -80,
-    to: "projects",
-  },
-  {
-    id: 5,
-    label: "Contact Us",
-    offset: -80,
-    to: "contact",
-  },
-];
+export const ingredientCategories = {
+      RETINOID: [
+        "Retinol",
+        "Retinaldehyde",
+        "Tretinoin",
+        "Adapalene",
+        "Retinyl Palmitate",
+      ],
+      AHA: ["Glycolic Acid", "Lactic Acid", "Mandelic Acid", "Citric Acid"],
+      BHA: ["Salicylic Acid"],
+      BENZOYL_PEROXIDE: ["Benzoyl Peroxide"],
+      VITAMIN_C_LAA: ["L-Ascorbic Acid", "Ascorbic Acid"], // Be specific about L-AA
+      VITAMIN_C_DERIVATIVES: [
+        "Sodium Ascorbyl Phosphate",
+        "Magnesium Ascorbyl Phosphate",
+        "Ascorbyl Glucoside",
+        "3-O-Ethyl Ascorbic Acid",
+      ], // Generally safer with other actives
+      NIACINAMIDE: ["Niacinamide", "Vitamin B3"],
+    };
 
 export const brands = [
   { id: 1, name: "Simple", isActive: true },

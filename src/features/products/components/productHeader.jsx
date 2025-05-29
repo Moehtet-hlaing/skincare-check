@@ -8,13 +8,13 @@ const ProductHeader = () => {
 
   return (
     <Container>
-      <div className="flex items-center gap-4 px-4 sticky max-w-[1200px]">
+      <div className="flex items-center gap-4 px-4 py-2 sticky max-w-[1200px] bg-neutral-50 mb-5">
         <div className="flex justify-between items-center mb-4 flex-grow">
           {/* left side */}
           <div>
-            <h1 className="text-2xl font-semibold mb-2 text-neutral-800">
+            <a href="/" className="text-2xl font-semibold mb-2 text-green-700">
               SkinSync
-            </h1>
+            </a>
             <p className="text-neutral-700 text-sm">Smart checks for healthy skin.</p>
           </div>
          
