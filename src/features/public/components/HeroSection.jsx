@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../../../components/Container";
 import { Link } from "react-router-dom";
-import heroSectionVideo from "../../../../assets/videos/hero_section_video.mp4";
+import heroSectionVideo from "../../../../public/assets/videos/hero_section_video.mp4";
 
 const HeroSection = () => {
   return (
