@@ -4,8 +4,6 @@ import ProductList from '../components/ProductList'
 import CategoriesSection from '../components/CategoriesSection'
 import BreadCrumb from '../../../components/BreadCrumb'
 import Heading from '../../../components/Heading'
-import Header from '../../../components/Header'
-import PublicHeader from '../../public/components/PublicHeader'
 import ProductHeader from '../components/productHeader'
 
 const ProductListPage = () => {

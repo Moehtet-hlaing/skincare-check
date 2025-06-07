@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import CategoryButton from "./CategoryButton";
 // import Container from "../../../components/Container";
 import useCategoryStore from "../../../stores/useCategoryStore";

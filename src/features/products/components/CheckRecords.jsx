@@ -6,7 +6,7 @@ import PageLoading from "../../../components/PageLoading";
 const CheckRecords = () => {
   const fetcher = (...args) => fetch(...args).then((res) => res.json());
   const { data, isLoading } = useSWR(
-    import.meta.env.VITE_API_URL + "/check-result",
+    import.meta.env.VITE_API_URL + "/check-result?_sort=id&_order=desc",
     fetcher
   );
   return (
