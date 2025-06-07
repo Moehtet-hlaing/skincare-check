@@ -31,7 +31,7 @@ const ProductDetail = () => {
           {/* Info Section */}
           <div className="md:w-1/2 flex flex-col gap-4 relative">
             <div>
-              <h1 className=" relative text-3xl font-extrabold text-neutral-900 leading-tight">
+              <h1 className=" relative text-2xl font-extrabold text-neutral-900 leading-tight">
                 {data?.product_name}
               </h1>
               <div className="relative">

@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import PublicLayout from "../features/public/components/publicLayout";
+import PublicLayout from "../features/public/components/PublicLayout";
 import HomePage from "../features/public/pages/HomePage";
 import AboutPage from "../features/public/pages/AboutPage";
 import ContactPage from "../features/public/pages/ContactPage";

@@ -1,5 +1,4 @@
 import CategoryButton from "./CategoryButton";
-// import Container from "../../../components/Container";
 import useCategoryStore from "../../../stores/useCategoryStore";
 
 const CategoriesSection = () => {

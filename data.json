@@ -2891,6 +2891,75 @@
       },
       "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
       "id": 4
+    },
+    {
+      "product1": {
+        "id": 73,
+        "product_name": "AHA/BHA Clarifying Treatment Toner",
+        "brand_name": "Cosrx",
+        "category": "Toner",
+        "skin_type": [
+          "All Skin Types",
+          "Oily",
+          "Acne-Prone",
+          "Dull"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
+        "ingredients": [
+          "Mineral Water",
+          "Salix Alba (Willow) Bark Water",
+          "Pyrus Malus (Apple) Fruit Water",
+          "Butylene Glycol",
+          "1,2-Hexanediol",
+          "Sodium Lactate",
+          "Glycolic Acid",
+          "Betaine Salicylate",
+          "Allantoin",
+          "Panthenol",
+          "Ethyl Hexanediol"
+        ],
+        "description": "A mild exfoliating toner with AHA and BHA to gently remove dead skin cells and impurities, improving skin texture and clarity."
+      },
+      "product2": {
+        "id": 16,
+        "product_name": "Hydro Boost Water Gel",
+        "brand_name": "Neutrogena",
+        "category": "Moisturizer",
+        "skin_type": [
+          "Normal",
+          "Combination",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+        "ingredients": [
+          "Water",
+          "Dimethicone",
+          "Glycerin",
+          "Dimethicone/Vinyl Dimethicone Crosspolymer",
+          "Sodium Hyaluronate",
+          "Ethylhexylglycerin",
+          "Dimethiconol",
+          "Carbomer",
+          "Polyacrylamide",
+          "C13-14 Isoparaffin",
+          "Laureth-7",
+          "C9-11 Pareth-6",
+          "Fragrance",
+          "Phenoxyethanol",
+          "Blue 1"
+        ],
+        "description": "A refreshing, lightweight water gel that instantly quenches and continuously delivers hydration."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 5
     }
   ]
 }

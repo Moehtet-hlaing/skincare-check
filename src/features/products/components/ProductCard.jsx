@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { FaChevronRight } from "react-icons/fa";
 
 const ProductCard = ({
   product: { id, product_name, brand_name, image_url, category },
