@@ -14,7 +14,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-wash.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-wash.jpg",
       "ingredients": [
         "Aqua",
         "Cocamidopropyl Betaine",
@@ -46,7 +46,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-light-moisturizer.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-light-moisturizer.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -75,7 +75,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-micellar.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-micellar.jpg",
       "ingredients": [
         "Aqua",
         "Hexylene Glycol",
@@ -103,7 +103,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-niacinamide-serum.jpg",
       "ingredients": [
         "Aqua",
         "Niacinamide",
@@ -128,7 +128,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-spf.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-spf.jpg",
       "ingredients": [
         "Aqua",
         "Zinc Oxide",
@@ -162,7 +162,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-night-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-night-cream.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -195,7 +195,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cosrx-low-ph.jpg",
+      "image_url": "/assets/images/product-placeholders/cosrx-low-ph.jpg",
       "ingredients": [
         "Water",
         "Cocamidopropyl Betaine",
@@ -232,7 +232,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cosrx-snail.jpg",
+      "image_url": "/assets/images/product-placeholders/cosrx-snail.jpg",
       "ingredients": [
         "Snail Secretion Filtrate",
         "Betaine",
@@ -260,7 +260,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/biore-uv.jpg",
+      "image_url": "/assets/images/product-placeholders/biore-uv.jpg",
       "ingredients": [
         "Water",
         "Alcohol",
@@ -300,7 +300,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cerave-hydrating.jpg",
+      "image_url": "/assets/images/product-placeholders/cerave-hydrating.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -338,7 +338,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/theordinary-niacinamide.jpg",
+      "image_url": "/assets/images/product-placeholders/theordinary-niacinamide.jpg",
       "ingredients": [
         "Aqua",
         "Niacinamide",
@@ -368,7 +368,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-green-tea.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-green-tea.jpg",
       "ingredients": [
         "Water",
         "Propanediol",
@@ -399,7 +399,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/lrp-toleriane-cleanser.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -429,7 +429,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cetaphil-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/cetaphil-cream.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -466,7 +466,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/olay-regenerist-serum.jpg",
+      "image_url": "/assets/images/product-placeholders/olay-regenerist-serum.jpg",
       "ingredients": [
         "Water",
         "Dimethicone",
@@ -504,7 +504,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+      "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
       "ingredients": [
         "Water",
         "Dimethicone",
@@ -538,7 +538,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/paulas-choice-bha.jpg",
+      "image_url": "/assets/images/product-placeholders/paulas-choice-bha.jpg",
       "ingredients": [
         "Aqua",
         "Methylpropanediol",
@@ -563,7 +563,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/laneige-lip-mask.jpg",
+      "image_url": "/assets/images/product-placeholders/laneige-lip-mask.jpg",
       "ingredients": [
         "Diisostearyl Malate",
         "Hydrogenated Polyisobutene",
@@ -596,7 +596,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/vichy-mineral89.jpg",
+      "image_url": "/assets/images/product-placeholders/vichy-mineral89.jpg",
       "ingredients": [
         "Aqua",
         "PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin",
@@ -624,7 +624,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/kiehls-calendula-wash.jpg",
+      "image_url": "/assets/images/product-placeholders/kiehls-calendula-wash.jpg",
       "ingredients": [
         "Aqua",
         "Sodium Cocoyl Isethionate",
@@ -658,7 +658,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/clinique-jelly.jpg",
+      "image_url": "/assets/images/product-placeholders/clinique-jelly.jpg",
       "ingredients": [
         "Water",
         "Bis-PEG-18 Methyl Ether Dimethyl Silane",
@@ -693,7 +693,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/bojc-sunscreen.jpg",
+      "image_url": "/assets/images/product-placeholders/bojc-sunscreen.jpg",
       "ingredients": [
         "Water",
         "Oryza Sativa (Rice) Extract",
@@ -732,7 +732,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/isntree-sungel.jpg",
+      "image_url": "/assets/images/product-placeholders/isntree-sungel.jpg",
       "ingredients": [
         "Water",
         "Butylene Glycol",
@@ -770,7 +770,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/anua-toner.jpg",
+      "image_url": "/assets/images/product-placeholders/anua-toner.jpg",
       "ingredients": [
         "Houttuynia Cordata Extract (77%)",
         "Water",
@@ -806,7 +806,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/axisy-darkspot.jpg",
+      "image_url": "/assets/images/product-placeholders/axisy-darkspot.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -846,7 +846,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/kiehls-ultrafacial.jpg",
+      "image_url": "/assets/images/product-placeholders/kiehls-ultrafacial.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -881,7 +881,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/clinique-balm.jpg",
+      "image_url": "/assets/images/product-placeholders/clinique-balm.jpg",
       "ingredients": [
         "Ethylhexyl Palmitate",
         "Carthamus Tinctorius (Safflower) Seed Oil",
@@ -909,7 +909,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/theordinary-glycolic.jpg",
+      "image_url": "/assets/images/product-placeholders/theordinary-glycolic.jpg",
       "ingredients": [
         "Aqua",
         "Glycolic Acid",
@@ -963,7 +963,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/laneige-water-mask.jpg",
+      "image_url": "/assets/images/product-placeholders/laneige-water-mask.jpg",
       "ingredients": [
         "Aqua",
         "Butylene Glycol",
@@ -1002,7 +1002,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/bojc-ginseng-essence.jpg",
+      "image_url": "/assets/images/product-placeholders/bojc-ginseng-essence.jpg",
       "ingredients": [
         "Panax Ginseng Root Water",
         "Butylene Glycol",
@@ -1046,7 +1046,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/isntree-green-tea-toner.jpg",
+      "image_url": "/assets/images/product-placeholders/isntree-green-tea-toner.jpg",
       "ingredients": [
         "Camellia Sinensis Leaf Extract",
         "Aqua",
@@ -1083,7 +1083,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/anua-peach-niacinamide.jpg",
+      "image_url": "/assets/images/product-placeholders/anua-peach-niacinamide.jpg",
       "ingredients": [
         "Prunus Persica (Peach) Fruit Extract (77%)",
         "Niacinamide (5%)",
@@ -1120,7 +1120,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/axisy-artichoke-ampoule.jpg",
+      "image_url": "/assets/images/product-placeholders/axisy-artichoke-ampoule.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -1160,7 +1160,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/kiehls-avocado-eye.jpg",
+      "image_url": "/assets/images/product-placeholders/kiehls-avocado-eye.jpg",
       "ingredients": [
         "Aqua",
         "Butyrospermum Parkii (Shea) Butter",
@@ -1195,7 +1195,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/clinique-all-about-eyes.jpg",
+      "image_url": "/assets/images/product-placeholders/clinique-all-about-eyes.jpg",
       "ingredients": [
         "Cyclopentasiloxane",
         "Water",
@@ -1229,7 +1229,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/olay-collagen-peptide.jpg",
+      "image_url": "/assets/images/product-placeholders/olay-collagen-peptide.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -1268,7 +1268,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/neutrogena-hydroboost-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost-cleanser.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1304,7 +1304,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/vichy-uv-age.jpg",
+      "image_url": "/assets/images/product-placeholders/vichy-uv-age.jpg",
       "ingredients": [
         "Aqua",
         "Alcohol Denat.",
@@ -1348,7 +1348,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-toner.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-toner.jpg",
       "ingredients": [
         "Aqua",
         "Hydrogenated Starch Hydrolysate",
@@ -1380,7 +1380,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-clay-mask.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-clay-mask.jpg",
       "ingredients": [
         "Aqua",
         "Kaolin",
@@ -1414,7 +1414,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-rich-moisturizer.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-rich-moisturizer.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1447,7 +1447,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-eye-gel.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-eye-gel.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1476,7 +1476,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-blemish-stick.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-blemish-stick.jpg",
       "ingredients": [
         "Aqua",
         "Alcohol Denat.",
@@ -1507,7 +1507,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-lotion-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-lotion-cleanser.jpg",
       "ingredients": [
         "Aqua",
         "Paraffinum Liquidum",
@@ -1539,7 +1539,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-cleansing-oil.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-cleansing-oil.jpg",
       "ingredients": [
         "Vitis Vinifera (Grape) Seed Oil",
         "Isocetyl Stearate",
@@ -1563,7 +1563,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/simple-clay-stick.jpg",
+      "image_url": "/assets/images/product-placeholders/simple-clay-stick.jpg",
       "ingredients": [
         "Glycerin",
         "Kaolin",
@@ -1593,7 +1593,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-volcanic-mask.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-volcanic-mask.jpg",
       "ingredients": [
         "Water",
         "Titanium Dioxide (CI 77891)",
@@ -1630,7 +1630,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-cherry-blossom.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-cherry-blossom.jpg",
       "ingredients": [
         "Water",
         "Dipropylene Glycol",
@@ -1664,7 +1664,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-bija-foam.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-bija-foam.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -1703,7 +1703,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-green-tea-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-green-tea-cream.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -1736,7 +1736,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/innisfree-orchid-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/innisfree-orchid-cream.jpg",
       "ingredients": [
         "Water",
         "Cyclopentasiloxane",
@@ -1773,7 +1773,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/biore-uv-milk.jpg",
+      "image_url": "/assets/images/product-placeholders/biore-uv-milk.jpg",
       "ingredients": [
         "Cyclopentasiloxane",
         "Water",
@@ -1810,7 +1810,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/biore-uru-uru-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/biore-uru-uru-cleanser.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -1840,7 +1840,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/biore-pore-strips.jpg",
+      "image_url": "/assets/images/product-placeholders/biore-pore-strips.jpg",
       "ingredients": [
         "Polyquaternium-37",
         "Silica",
@@ -1867,7 +1867,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cerave-moisturizing-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/cerave-moisturizing-cream.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1908,7 +1908,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cerave-foaming-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/cerave-foaming-cleanser.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1946,7 +1946,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cerave-pm-lotion.jpg",
+      "image_url": "/assets/images/product-placeholders/cerave-pm-lotion.jpg",
       "ingredients": [
         "Aqua",
         "Glycerin",
@@ -1986,7 +1986,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/neutrogena-oil-free-acne-wash.jpg",
+      "image_url": "/assets/images/product-placeholders/neutrogena-oil-free-acne-wash.jpg",
       "ingredients": [
         "Salicylic Acid",
         "Water",
@@ -2018,7 +2018,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/neutrogena-rapid-wrinkle-repair-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/neutrogena-rapid-wrinkle-repair-cream.jpg",
       "ingredients": [
         "Water",
         "Pentaerythrityl Tetraethylhexanoate",
@@ -2059,7 +2059,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/neutrogena-ultra-sheer-spf55.jpg",
+      "image_url": "/assets/images/product-placeholders/neutrogena-ultra-sheer-spf55.jpg",
       "ingredients": [
         "Avobenzone 3%",
         "Homosalate 10%",
@@ -2102,7 +2102,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/laneige-cream-skin.jpg",
+      "image_url": "/assets/images/product-placeholders/laneige-cream-skin.jpg",
       "ingredients": [
         "Water",
         "Butylene Glycol",
@@ -2137,7 +2137,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/laneige-water-bank-serum.jpg",
+      "image_url": "/assets/images/product-placeholders/laneige-water-bank-serum.jpg",
       "ingredients": [
         "Water",
         "Butylene Glycol",
@@ -2173,7 +2173,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/laneige-cica-mask.jpg",
+      "image_url": "/assets/images/product-placeholders/laneige-cica-mask.jpg",
       "ingredients": [
         "Water",
         "Centella Asiatica Leaf Extract",
@@ -2212,7 +2212,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/axisy-purifying-toner.jpg",
+      "image_url": "/assets/images/product-placeholders/axisy-purifying-toner.jpg",
       "ingredients": [
         "Centella Asiatica Extract",
         "Tea Tree Leaf Extract",
@@ -2247,7 +2247,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/axisy-blemish-treatment.jpg",
+      "image_url": "/assets/images/product-placeholders/axisy-blemish-treatment.jpg",
       "ingredients": [
         "Water",
         "Melaleuca Alternifolia (Tea Tree) Leaf Extract",
@@ -2285,7 +2285,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/axisy-heartleaf-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/axisy-heartleaf-cream.jpg",
       "ingredients": [
         "Water",
         "Glycerin",
@@ -2325,7 +2325,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cetaphil-gentle-cleanser.jpg",
+      "image_url": "/assets/images/product-placeholders/cetaphil-gentle-cleanser.jpg",
       "ingredients": [
         "Water",
         "Cetyl Alcohol",
@@ -2351,7 +2351,7 @@
       "usage_time": [
         "Day"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cetaphil-daily-moisturizer-spf15.jpg",
+      "image_url": "/assets/images/product-placeholders/cetaphil-daily-moisturizer-spf15.jpg",
       "ingredients": [
         "Avobenzone 3%",
         "Octinoxate 7.5%",
@@ -2386,7 +2386,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cetaphil-redness-night-moisturizer.jpg",
+      "image_url": "/assets/images/product-placeholders/cetaphil-redness-night-moisturizer.jpg",
       "ingredients": [
         "Aqua",
         "Caprylic/Capric Triglyceride",
@@ -2430,7 +2430,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/theordinary-hyaluronic-acid.jpg",
+      "image_url": "/assets/images/product-placeholders/theordinary-hyaluronic-acid.jpg",
       "ingredients": [
         "Aqua",
         "Sodium Hyaluronate",
@@ -2464,7 +2464,7 @@
       "usage_time": [
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/theordinary-salicylic-acid.jpg",
+      "image_url": "/assets/images/product-placeholders/theordinary-salicylic-acid.jpg",
       "ingredients": [
         "Aqua",
         "Saccharide Isomerate",
@@ -2495,7 +2495,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/theordinary-azelaic-acid.jpg",
+      "image_url": "/assets/images/product-placeholders/theordinary-azelaic-acid.jpg",
       "ingredients": [
         "Aqua",
         "Isodecyl Neopentanoate",
@@ -2528,7 +2528,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
+      "image_url": "/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
       "ingredients": [
         "Mineral Water",
         "Salix Alba (Willow) Bark Water",
@@ -2557,7 +2557,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cosrx-pimple-patch.jpg",
+      "image_url": "/assets/images/product-placeholders/cosrx-pimple-patch.jpg",
       "ingredients": [
         "Cellulose Gum",
         "Styrene Isoprene Styrene Block Copolymer",
@@ -2583,7 +2583,7 @@
         "Day",
         "Night"
       ],
-      "image_url": "/public/assets/images/product-placeholders/cosrx-ceramide-cream.jpg",
+      "image_url": "/assets/images/product-placeholders/cosrx-ceramide-cream.jpg",
       "ingredients": [
         "Centella Asiatica Leaf Water",
         "Glycerin",
@@ -2625,7 +2625,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/simple-wash.jpg",
+        "image_url": "/assets/images/product-placeholders/simple-wash.jpg",
         "ingredients": [
           "Aqua",
           "Cocamidopropyl Betaine",
@@ -2657,7 +2657,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/theordinary-niacinamide.jpg",
+        "image_url": "/assets/images/product-placeholders/theordinary-niacinamide.jpg",
         "ingredients": [
           "Aqua",
           "Niacinamide",
@@ -2690,7 +2690,7 @@
         "usage_time": [
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/simple-night-cream.jpg",
+        "image_url": "/assets/images/product-placeholders/simple-night-cream.jpg",
         "ingredients": [
           "Aqua",
           "Glycerin",
@@ -2723,7 +2723,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/cosrx-low-ph.jpg",
+        "image_url": "/assets/images/product-placeholders/cosrx-low-ph.jpg",
         "ingredients": [
           "Water",
           "Cocamidopropyl Betaine",
@@ -2764,7 +2764,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/axisy-darkspot.jpg",
+        "image_url": "/assets/images/product-placeholders/axisy-darkspot.jpg",
         "ingredients": [
           "Water",
           "Glycerin",
@@ -2803,7 +2803,7 @@
         "usage_time": [
           "Day"
         ],
-        "image_url": "/public/assets/images/product-placeholders/cetaphil-daily-moisturizer-spf15.jpg",
+        "image_url": "/assets/images/product-placeholders/cetaphil-daily-moisturizer-spf15.jpg",
         "ingredients": [
           "Avobenzone 3%",
           "Octinoxate 7.5%",
@@ -2842,7 +2842,7 @@
         "usage_time": [
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/theordinary-salicylic-acid.jpg",
+        "image_url": "/assets/images/product-placeholders/theordinary-salicylic-acid.jpg",
         "ingredients": [
           "Aqua",
           "Saccharide Isomerate",
@@ -2873,7 +2873,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
+        "image_url": "/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
         "ingredients": [
           "Mineral Water",
           "Salix Alba (Willow) Bark Water",
@@ -2908,7 +2908,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
+        "image_url": "/assets/images/product-placeholders/cosrx-ahabha-toner.jpg",
         "ingredients": [
           "Mineral Water",
           "Salix Alba (Willow) Bark Water",
@@ -2938,7 +2938,7 @@
           "Day",
           "Night"
         ],
-        "image_url": "/public/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+        "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
         "ingredients": [
           "Water",
           "Dimethicone",
@@ -2960,6 +2960,74 @@
       },
       "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
       "id": 5
+    },
+    {
+      "product1": {
+        "id": 2,
+        "product_name": "Kind to Skin Hydrating Light Moisturiser",
+        "brand_name": "Simple",
+        "category": "Moisturizer",
+        "skin_type": [
+          "All Skin Types",
+          "Sensitive",
+          "Normal",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/simple-light-moisturizer.jpg",
+        "ingredients": [
+          "Aqua",
+          "Glycerin",
+          "Paraffinum Liquidum",
+          "Niacinamide",
+          "Glyceryl Stearate",
+          "Dimethicone",
+          "Tocopheryl Acetate",
+          "Panthenol",
+          "BHT",
+          "Citric Acid"
+        ],
+        "description": "A light, fast-absorbing moisturizer that keeps skin hydrated for up to 12 hours. Contains Pro-Vitamin B5 and Vitamin E. No artificial perfumes or colors."
+      },
+      "product2": {
+        "id": 16,
+        "product_name": "Hydro Boost Water Gel",
+        "brand_name": "Neutrogena",
+        "category": "Moisturizer",
+        "skin_type": [
+          "Normal",
+          "Combination",
+          "Oily"
+        ],
+        "usage_time": [
+          "Day",
+          "Night"
+        ],
+        "image_url": "/assets/images/product-placeholders/neutrogena-hydroboost.jpg",
+        "ingredients": [
+          "Water",
+          "Dimethicone",
+          "Glycerin",
+          "Dimethicone/Vinyl Dimethicone Crosspolymer",
+          "Sodium Hyaluronate",
+          "Ethylhexylglycerin",
+          "Dimethiconol",
+          "Carbomer",
+          "Polyacrylamide",
+          "C13-14 Isoparaffin",
+          "Laureth-7",
+          "C9-11 Pareth-6",
+          "Fragrance",
+          "Phenoxyethanol",
+          "Blue 1"
+        ],
+        "description": "A refreshing, lightweight water gel that instantly quenches and continuously delivers hydration."
+      },
+      "message": "These two ingredients are safe to use together. There is no known interaction or conflict between them, and combining them can often enhance skincare benefits. However, always patch test new products and monitor your skin’s response, especially if you have sensitive skin.",
+      "id": 6
     }
   ]
 }
